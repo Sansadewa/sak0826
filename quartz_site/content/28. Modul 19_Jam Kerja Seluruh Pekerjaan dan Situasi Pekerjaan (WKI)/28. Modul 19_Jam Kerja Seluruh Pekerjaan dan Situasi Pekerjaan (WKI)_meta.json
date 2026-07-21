@@ -1,0 +1,580 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SAKERNAS\nB A H A N A J A R",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          584.8499755859375,
+          165.05859375
+        ],
+        [
+          905.7706298828125,
+          164.00390625
+        ],
+        [
+          905.7706298828125,
+          252.18487548828125
+        ],
+        [
+          584.8499755859375,
+          252.18487548828125
+        ]
+      ]
+    },
+    {
+      "title": "PENGENALAN MODUL WKI",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.25,
+          23.02301025390625
+        ],
+        [
+          606.6495361328125,
+          23.02301025390625
+        ],
+        [
+          606.6495361328125,
+          62.823028564453125
+        ],
+        [
+          72.1875,
+          62.823028564453125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 19.1 (WKT_S)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          27.75,
+          23.4930419921875
+        ],
+        [
+          435.5697937011719,
+          23.4930419921875
+        ],
+        [
+          435.5697937011719,
+          63.29302978515625
+        ],
+        [
+          27.75,
+          63.29302978515625
+        ]
+      ]
+    },
+    {
+      "title": "TANYAKAN JAM KERJA PER HARI PADA 7 HARI TERAKHIR",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.625,
+          256.552734375
+        ],
+        [
+          462.58770751953125,
+          255.498046875
+        ],
+        [
+          462.58770751953125,
+          272.7830810546875
+        ],
+        [
+          35.625,
+          272.7830810546875
+        ]
+      ]
+    },
+    {
+      "title": "Catatan:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          637.03125,
+          301.07183837890625
+        ],
+        [
+          694.9701538085938,
+          300.5859375
+        ],
+        [
+          694.9701538085938,
+          315.3468475341797
+        ],
+        [
+          635.15625,
+          315.3468475341797
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 19.2 (WKT_USS)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          27.75,
+          23.4930419921875
+        ],
+        [
+          488.8221740722656,
+          23.4930419921875
+        ],
+        [
+          488.8221740722656,
+          63.29302978515625
+        ],
+        [
+          27.75,
+          63.29302978515625
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 19.3 (WKT_WNTMRH)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          27.65625,
+          23.4930419921875
+        ],
+        [
+          604.21875,
+          23.4930419921875
+        ],
+        [
+          603.5655517578125,
+          63.29302978515625
+        ],
+        [
+          25.78125,
+          63.29302978515625
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 19.4 (WKT_AVLMRH)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          27.75,
+          23.4930419921875
+        ],
+        [
+          585.0,
+          23.4930419921875
+        ],
+        [
+          583.386962890625,
+          63.29302978515625
+        ],
+        [
+          27.75,
+          63.29302978515625
+        ]
+      ]
+    },
+    {
+      "title": "Ilustrasi rentang waktu penentuan kesiapan/kesediaan \nmenambah jam kerja",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          487.03125,
+          307.5618438720703
+        ],
+        [
+          865.1904907226562,
+          306.9140625
+        ],
+        [
+          865.1904907226562,
+          343.828125
+        ],
+        [
+          487.03125,
+          344.8828125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 19.5 (WKT_PNWRN)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          27.75,
+          23.4930419921875
+        ],
+        [
+          568.38232421875,
+          23.4930419921875
+        ],
+        [
+          568.38232421875,
+          63.29302978515625
+        ],
+        [
+          26.25,
+          63.29302978515625
+        ]
+      ]
+    },
+    {
+      "title": "Terima\nkasih",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          109.6875,
+          337.5498809814453
+        ],
+        [
+          295.4669189453125,
+          337.5498809814453
+        ],
+        [
+          295.4669189453125,
+          462.23986053466797
+        ],
+        [
+          107.8125,
+          462.23986053466797
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\28. Modul 19_Jam Kerja Seluruh Pekerjaan dan Situasi Pekerjaan (WKI)"
+}

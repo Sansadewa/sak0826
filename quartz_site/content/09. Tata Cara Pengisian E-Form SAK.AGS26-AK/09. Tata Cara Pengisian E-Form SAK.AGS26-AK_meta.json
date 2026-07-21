@@ -1,0 +1,1096 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SAKERNAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          566.2100219726562,
+          195.2919921875
+        ],
+        [
+          897.65625,
+          195.2919921875
+        ],
+        [
+          895.78125,
+          255.31600952148438
+        ],
+        [
+          564.84375,
+          255.31600952148438
+        ]
+      ]
+    },
+    {
+      "title": "StrukturE-FormSAK.AGS26-AK",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          81.23999786376953,
+          70.400390625
+        ],
+        [
+          528.406005859375,
+          70.400390625
+        ],
+        [
+          528.406005859375,
+          111.97000122070312
+        ],
+        [
+          79.6875,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "E-Form SAK.AGS26-AK digunakan\nuntuk mencatat:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          120.0,
+          208.30078125
+        ],
+        [
+          412.5,
+          208.30078125
+        ],
+        [
+          411.9978942871094,
+          248.82492065429688
+        ],
+        [
+          118.125,
+          248.82492065429688
+        ]
+      ]
+    },
+    {
+      "title": "PetunjukPengisianE-FormSAK.AGS26-AK [1]",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          81.23999786376953,
+          71.71875
+        ],
+        [
+          745.4521484375,
+          70.6640625
+        ],
+        [
+          745.4521484375,
+          111.97000122070312
+        ],
+        [
+          81.23999786376953,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "PetunjukPengisianE-FormSAK.AGS26-AK [2]",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          81.23999786376953,
+          71.71875
+        ],
+        [
+          745.4521484375,
+          70.6640625
+        ],
+        [
+          745.4521484375,
+          111.97000122070312
+        ],
+        [
+          81.23999786376953,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "PetunjukPengisianE-FormSAK.AGS26-AK [3]",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          81.23999786376953,
+          71.19140625
+        ],
+        [
+          745.4521484375,
+          71.19140625
+        ],
+        [
+          745.4521484375,
+          111.97000122070312
+        ],
+        [
+          81.23999786376953,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          180.0,
+          214.62890625
+        ],
+        [
+          335.625,
+          213.57421875
+        ],
+        [
+          335.625,
+          224.12109375
+        ],
+        [
+          180.0,
+          225.17578125
+        ]
+      ]
+    },
+    {
+      "title": "Petunjuk Pengisian E-FormSAK.AGS26-AK [4]",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          81.23999786376953,
+          70.927734375
+        ],
+        [
+          745.4521484375,
+          70.927734375
+        ],
+        [
+          745.4521484375,
+          111.97000122070312
+        ],
+        [
+          81.23999786376953,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "Konsep Kependudukan dan Cakupan Pendataan",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          81.23999786376953,
+          72.010009765625
+        ],
+        [
+          857.5430908203125,
+          71.19140625
+        ],
+        [
+          857.5430908203125,
+          111.97000122070312
+        ],
+        [
+          81.23999786376953,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "Penduduk [1]",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          81.09375,
+          70.400390625
+        ],
+        [
+          298.7023620605469,
+          70.400390625
+        ],
+        [
+          298.7023620605469,
+          111.97000122070312
+        ],
+        [
+          79.21875,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "Penduduk [2]",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          81.23999786376953,
+          71.19140625
+        ],
+        [
+          298.7023620605469,
+          71.19140625
+        ],
+        [
+          298.7023620605469,
+          111.97000122070312
+        ],
+        [
+          79.6875,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "Termasuk penduduk setempat \n(dicacah dalam Sakernas):",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          88.125,
+          126.826171875
+        ],
+        [
+          359.4360046386719,
+          126.826171875
+        ],
+        [
+          359.4360046386719,
+          171.27493286132812
+        ],
+        [
+          88.125,
+          171.27493286132812
+        ]
+      ]
+    },
+    {
+      "title": "Tidak termasuk penduduk setempat (tidak didata dalam \nSakernas):",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          405.9375,
+          125.771484375
+        ],
+        [
+          901.4139404296875,
+          125.771484375
+        ],
+        [
+          901.4139404296875,
+          171.27493286132812
+        ],
+        [
+          404.0625,
+          171.27493286132812
+        ]
+      ]
+    },
+    {
+      "title": "Rumah Tangga Biasa [1]",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          81.23999786376953,
+          71.455078125
+        ],
+        [
+          469.0518493652344,
+          71.455078125
+        ],
+        [
+          469.0518493652344,
+          112.060546875
+        ],
+        [
+          81.23999786376953,
+          112.060546875
+        ]
+      ]
+    },
+    {
+      "title": "Rumah Tangga Biasa [2]",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          81.23999786376953,
+          71.19140625
+        ],
+        [
+          469.0518493652344,
+          71.19140625
+        ],
+        [
+          469.0518493652344,
+          111.97000122070312
+        ],
+        [
+          80.625,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "Rumah Tangga Biasa [3]",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          81.23999786376953,
+          71.455078125
+        ],
+        [
+          469.0518493652344,
+          71.455078125
+        ],
+        [
+          469.0518493652344,
+          111.97000122070312
+        ],
+        [
+          81.09375,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "Termasuk rumah tangga biasa dan didata dalam \nSakernas:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          88.125,
+          127.35491943359375
+        ],
+        [
+          512.5439453125,
+          127.35491943359375
+        ],
+        [
+          512.5439453125,
+          171.27493286132812
+        ],
+        [
+          88.125,
+          171.27493286132812
+        ]
+      ]
+    },
+    {
+      "title": "Kasus Tertentu",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          81.23999786376953,
+          71.71875
+        ],
+        [
+          324.3566589355469,
+          71.71875
+        ],
+        [
+          324.3566589355469,
+          111.97000122070312
+        ],
+        [
+          81.09375,
+          111.97000122070312
+        ]
+      ]
+    },
+    {
+      "title": "a. Orang yang bekerja di luar SLS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          97.29598999023438,
+          124.453125
+        ],
+        [
+          353.52484130859375,
+          124.453125
+        ],
+        [
+          353.52484130859375,
+          140.73007202148438
+        ],
+        [
+          97.29598999023438,
+          140.73007202148438
+        ]
+      ]
+    },
+    {
+      "title": "b. Anak SD/SMP/SMA yang sekolah di tempat \nlain dan tidak tinggal bersama orang \ntuanya/rumah tangganya",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          96.09375,
+          283.2152404785156
+        ],
+        [
+          454.6084289550781,
+          282.392578125
+        ],
+        [
+          454.6084289550781,
+          337.763671875
+        ],
+        [
+          94.21875,
+          338.818359375
+        ]
+      ]
+    },
+    {
+      "title": "c. Sekolah berasrama non-formal (misal pesantren \nnon-ijazah)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          525.9375,
+          122.895263671875
+        ],
+        [
+          916.3112182617188,
+          122.080078125
+        ],
+        [
+          916.3112182617188,
+          158.06005859375
+        ],
+        [
+          524.0625,
+          158.466796875
+        ]
+      ]
+    },
+    {
+      "title": "d. Mahasiswa/mahasiswi",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          525.0,
+          242.578125
+        ],
+        [
+          718.8641357421875,
+          241.5234375
+        ],
+        [
+          718.8641357421875,
+          258.875244140625
+        ],
+        [
+          525.0,
+          258.875244140625
+        ]
+      ]
+    },
+    {
+      "title": "Terima\nkasih",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          110.15625,
+          337.7799987792969
+        ],
+        [
+          316.9599914550781,
+          337.7799987792969
+        ],
+        [
+          316.9599914550781,
+          462.5820007324219
+        ],
+        [
+          110.15625,
+          462.5820007324219
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          40
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\09. Tata Cara Pengisian E-Form SAK.AGS26-AK"
+}

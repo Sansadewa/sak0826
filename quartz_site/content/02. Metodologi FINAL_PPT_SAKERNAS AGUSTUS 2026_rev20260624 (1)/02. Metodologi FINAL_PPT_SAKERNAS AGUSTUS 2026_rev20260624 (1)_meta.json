@@ -1,0 +1,1391 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BAHAN AJAR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          415.0799865722656,
+          53.7890625
+        ],
+        [
+          531.5625,
+          53.7890625
+        ],
+        [
+          531.5625,
+          73.49014282226562
+        ],
+        [
+          415.0799865722656,
+          73.49014282226562
+        ]
+      ]
+    },
+    {
+      "title": "SAKERNAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          332.29998779296875,
+          86.39459228515625
+        ],
+        [
+          612.95751953125,
+          86.39459228515625
+        ],
+        [
+          612.95751953125,
+          136.4345703125
+        ],
+        [
+          332.29998779296875,
+          136.4345703125
+        ]
+      ]
+    },
+    {
+      "title": "OUTLINE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          169.05999755859375,
+          91.494140625
+        ],
+        [
+          257.34375,
+          90.439453125
+        ],
+        [
+          257.01556396484375,
+          111.55435180664062
+        ],
+        [
+          168.28125,
+          111.55435180664062
+        ]
+      ]
+    },
+    {
+      "title": "Pendahuluan dan Jumlah Sampel",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          95.71199798583984,
+          85.61447143554688
+        ],
+        [
+          605.39013671875,
+          85.61447143554688
+        ],
+        [
+          605.39013671875,
+          118.125
+        ],
+        [
+          95.71199798583984,
+          118.125
+        ]
+      ]
+    },
+    {
+      "title": "STRATIFIKASI (1)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          117.1875,
+          94.658203125
+        ],
+        [
+          285.4854431152344,
+          93.603515625
+        ],
+        [
+          285.4854431152344,
+          115.80435180664062
+        ],
+        [
+          115.3125,
+          116.279296875
+        ]
+      ]
+    },
+    {
+      "title": "STRATIFIKASI (2)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          112.5,
+          103.88671875
+        ],
+        [
+          281.8154296875,
+          102.83203125
+        ],
+        [
+          281.8154296875,
+          125.19436645507812
+        ],
+        [
+          110.625,
+          126.03515625
+        ]
+      ]
+    },
+    {
+      "title": "Implisit",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          153.75,
+          244.423828125
+        ],
+        [
+          223.58799743652344,
+          243.369140625
+        ],
+        [
+          223.58799743652344,
+          264.246337890625
+        ],
+        [
+          153.75,
+          264.246337890625
+        ]
+      ]
+    },
+    {
+      "title": "Kerangka Sampel",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          321.2200012207031,
+          75.41015625
+        ],
+        [
+          589.6701049804688,
+          74.35546875
+        ],
+        [
+          589.6701049804688,
+          108.10546875
+        ],
+        [
+          321.2200012207031,
+          109.16015625
+        ]
+      ]
+    },
+    {
+      "title": "Prosedur Penarikan Sampel (1)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          29.71200180053711,
+          34.013671875
+        ],
+        [
+          384.4360046386719,
+          34.013671875
+        ],
+        [
+          384.4360046386719,
+          58.86016845703125
+        ],
+        [
+          29.71200180053711,
+          58.86016845703125
+        ]
+      ]
+    },
+    {
+      "title": "Tahap 1",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          40.78125,
+          126.5625
+        ],
+        [
+          113.63999938964844,
+          126.5625
+        ],
+        [
+          113.63999938964844,
+          146.6015625
+        ],
+        [
+          40.78125,
+          146.6015625
+        ]
+      ]
+    },
+    {
+      "title": "Prosedur Penarikan Sampel (2)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          72.1875,
+          72.7734375
+        ],
+        [
+          428.39599609375,
+          72.7734375
+        ],
+        [
+          428.39599609375,
+          99.140625
+        ],
+        [
+          70.3125,
+          99.140625
+        ]
+      ]
+    },
+    {
+      "title": "Tahap 2",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          331.875,
+          152.138671875
+        ],
+        [
+          402.3085021972656,
+          152.138671875
+        ],
+        [
+          402.3085021972656,
+          171.254638671875
+        ],
+        [
+          331.875,
+          171.254638671875
+        ]
+      ]
+    },
+    {
+      "title": "Skema Sampling",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          38.25,
+          24.75
+        ],
+        [
+          273.0,
+          24.75
+        ],
+        [
+          273.0,
+          57.75
+        ],
+        [
+          38.25,
+          57.75
+        ]
+      ]
+    },
+    {
+      "title": "Skema Sampling untuk Wilayah IKN",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          20.625,
+          24.49652099609375
+        ],
+        [
+          499.67138671875,
+          23.466796875
+        ],
+        [
+          499.67138671875,
+          52.48052978515625
+        ],
+        [
+          18.75,
+          53.525390625
+        ]
+      ]
+    },
+    {
+      "title": "SAMPLING WEIGHT",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          303.0,
+          42.451171875
+        ],
+        [
+          615.75,
+          41.396484375
+        ],
+        [
+          615.75,
+          66.181640625
+        ],
+        [
+          303.0,
+          67.236328125
+        ]
+      ]
+    },
+    {
+      "title": "NONCOVERAGE\nHOUSEHOLDS\nADJUSTMENT",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          113.25,
+          105.75
+        ],
+        [
+          261.0,
+          105.46875
+        ],
+        [
+          261.0,
+          164.53125
+        ],
+        [
+          113.25,
+          165.5859375
+        ]
+      ]
+    },
+    {
+      "title": "NONRESPONSE\nADJUSTMENT",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          65.25,
+          280.546875
+        ],
+        [
+          210.0,
+          279.4921875
+        ],
+        [
+          210.0,
+          315.75
+        ],
+        [
+          65.25,
+          316.40625
+        ]
+      ]
+    },
+    {
+      "title": "DESIGN WEIGHT",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          117.75,
+          411.064453125
+        ],
+        [
+          269.25,
+          410.009765625
+        ],
+        [
+          269.25,
+          426.357421875
+        ],
+        [
+          117.75,
+          427.412109375
+        ]
+      ]
+    },
+    {
+      "title": "CALIBRATION",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          660.0,
+          111.26953125
+        ],
+        [
+          792.75,
+          110.21484375
+        ],
+        [
+          792.75,
+          126.0
+        ],
+        [
+          658.125,
+          126.03515625
+        ]
+      ]
+    },
+    {
+      "title": "TRIMMING WEIGHT",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          700.78125,
+          277.5
+        ],
+        [
+          874.5,
+          277.3828125
+        ],
+        [
+          874.5,
+          292.1484375
+        ],
+        [
+          698.90625,
+          293.203125
+        ]
+      ]
+    },
+    {
+      "title": "POST \u2013 STRATIFICATION ADJUSTMENT",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          654.0,
+          402.0
+        ],
+        [
+          873.75,
+          402.0
+        ],
+        [
+          873.75,
+          438.22265625
+        ],
+        [
+          654.0,
+          439.27734375
+        ]
+      ]
+    },
+    {
+      "title": "ESTIMATOR",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          126.09375,
+          112.68435668945312
+        ],
+        [
+          246.73524475097656,
+          112.060546875
+        ],
+        [
+          246.73524475097656,
+          132.724365234375
+        ],
+        [
+          126.09375,
+          132.724365234375
+        ]
+      ]
+    },
+    {
+      "title": "PEMBENTUKAN PAKET SAMPEL SLS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          82.5,
+          40.60546875
+        ],
+        [
+          451.77130126953125,
+          40.60546875
+        ],
+        [
+          451.77130126953125,
+          60.674346923828125
+        ],
+        [
+          80.625,
+          60.674346923828125
+        ]
+      ]
+    },
+    {
+      "title": "Banyaknya Sampel SLS Sakernas Februari Agustus 2026-2028 \nMenurut Paket Sampel",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          213.75,
+          99.404296875
+        ],
+        [
+          727.9300537109375,
+          98.349609375
+        ],
+        [
+          727.9300537109375,
+          134.84014892578125
+        ],
+        [
+          213.75,
+          134.84014892578125
+        ]
+      ]
+    },
+    {
+      "title": "PEMUTAKHIRAN FRAME RUMAH TANGGA",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          280.3125,
+          51.6796875
+        ],
+        [
+          692.3031616210938,
+          51.6796875
+        ],
+        [
+          692.3031616210938,
+          72.03433227539062
+        ],
+        [
+          280.3125,
+          72.03433227539062
+        ]
+      ]
+    },
+    {
+      "title": "ROTASI DAN PEMBENTUKAN KELOMPOK SAMPEL RUMAH TANGGA",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          138.28125,
+          52.20703125
+        ],
+        [
+          807.7845458984375,
+          52.20703125
+        ],
+        [
+          807.7845458984375,
+          72.3443603515625
+        ],
+        [
+          136.40625,
+          72.3443603515625
+        ]
+      ]
+    },
+    {
+      "title": "Pengaturan Rotasi Kelompok Sampel Rumah Tangga\nSakernas Februari dan Agustus",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          285.46875,
+          124.0859375
+        ],
+        [
+          668.140380859375,
+          123.92578125
+        ],
+        [
+          668.140380859375,
+          157.3304443359375
+        ],
+        [
+          285.46875,
+          157.3304443359375
+        ]
+      ]
+    },
+    {
+      "title": "PEMILIHAN SAMPEL RUMAH TANGGA (1)",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          284.53125,
+          51.6796875
+        ],
+        [
+          687.5623168945312,
+          51.6796875
+        ],
+        [
+          687.5623168945312,
+          72.03433227539062
+        ],
+        [
+          284.53125,
+          72.03433227539062
+        ]
+      ]
+    },
+    {
+      "title": "PEMILIHAN SAMPEL RUMAH TANGGA (2)",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          283.125,
+          51.416015625
+        ],
+        [
+          687.5623168945312,
+          51.416015625
+        ],
+        [
+          687.5623168945312,
+          72.03433227539062
+        ],
+        [
+          283.125,
+          72.03433227539062
+        ]
+      ]
+    },
+    {
+      "title": "PEMILIHAN SAMPEL RUMAH TANGGA (2)",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          283.125,
+          51.6796875
+        ],
+        [
+          687.5623168945312,
+          51.6796875
+        ],
+        [
+          687.5623168945312,
+          72.03433227539062
+        ],
+        [
+          283.125,
+          72.03433227539062
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Picture",
+          14
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          268
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          52
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "TableCell",
+          41
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "TableCell",
+          68
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\02. Metodologi FINAL_PPT_SAKERNAS AGUSTUS 2026_rev20260624 (1)"
+}

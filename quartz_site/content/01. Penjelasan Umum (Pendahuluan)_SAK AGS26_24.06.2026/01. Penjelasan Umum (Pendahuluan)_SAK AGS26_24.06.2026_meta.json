@@ -1,0 +1,2174 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SAKERNAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          650.8099975585938,
+          191.43148803710938
+        ],
+        [
+          904.7900390625,
+          191.43148803710938
+        ],
+        [
+          904.7900390625,
+          251.43148803710938
+        ],
+        [
+          650.8099975585938,
+          251.43148803710938
+        ]
+      ]
+    },
+    {
+      "title": "LATAR BELAKANG",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          113.41999816894531,
+          59.960296630859375
+        ],
+        [
+          428.09600830078125,
+          59.960296630859375
+        ],
+        [
+          428.09600830078125,
+          95.96029663085938
+        ],
+        [
+          112.96875,
+          95.96029663085938
+        ]
+      ]
+    },
+    {
+      "title": "SEJARAH SAKERNAS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.0,
+          50.882537841796875
+        ],
+        [
+          414.2051086425781,
+          50.882537841796875
+        ],
+        [
+          414.2051086425781,
+          90.842529296875
+        ],
+        [
+          73.125,
+          90.842529296875
+        ]
+      ]
+    },
+    {
+      "title": "Penyelenggara BPS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          429.84375,
+          109.82955932617188
+        ],
+        [
+          579.7357788085938,
+          109.82955932617188
+        ],
+        [
+          579.7357788085938,
+          129.86956787109375
+        ],
+        [
+          429.84375,
+          130.25390625
+        ]
+      ]
+    },
+    {
+      "title": "Penyelenggara BPS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          363.6199951171875,
+          162.14956665039062
+        ],
+        [
+          511.8157958984375,
+          162.14956665039062
+        ],
+        [
+          511.8157958984375,
+          182.1895751953125
+        ],
+        [
+          363.6199951171875,
+          182.1895751953125
+        ]
+      ]
+    },
+    {
+      "title": "TUJUAN SAKERNAS AGUSTUS 2026",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          112.25,
+          42.2802734375
+        ],
+        [
+          732.4559936523438,
+          42.2802734375
+        ],
+        [
+          732.4559936523438,
+          78.2802734375
+        ],
+        [
+          112.25,
+          78.2802734375
+        ]
+      ]
+    },
+    {
+      "title": "UMUM:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          91.94400024414062,
+          121.21661376953125
+        ],
+        [
+          161.08799743652344,
+          121.21661376953125
+        ],
+        [
+          161.08799743652344,
+          145.21661376953125
+        ],
+        [
+          90.46875,
+          145.21661376953125
+        ]
+      ]
+    },
+    {
+      "title": "KHUSUS:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          90.9375,
+          220.09658813476562
+        ],
+        [
+          172.4639892578125,
+          220.09658813476562
+        ],
+        [
+          172.4639892578125,
+          244.09658813476562
+        ],
+        [
+          90.9375,
+          244.09658813476562
+        ]
+      ]
+    },
+    {
+      "title": "CAKUPAN DAN LEVEL ESTIMASI",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          266.25,
+          32.316009521484375
+        ],
+        [
+          710.625,
+          31.640625
+        ],
+        [
+          710.6217041015625,
+          60.276031494140625
+        ],
+        [
+          264.375,
+          60.276031494140625
+        ]
+      ]
+    },
+    {
+      "title": "DATA YANG \nDIKUMPULKAN(1)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          10.78125,
+          236.25
+        ],
+        [
+          210.7523193359375,
+          235.1953125
+        ],
+        [
+          210.7523193359375,
+          309.4800109863281
+        ],
+        [
+          8.90625,
+          309.4800109863281
+        ]
+      ]
+    },
+    {
+      "title": "A. Keterangan setiap anggota rumah tangga (ART)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          237.65625,
+          31.11328125
+        ],
+        [
+          696.265869140625,
+          30.05859375
+        ],
+        [
+          696.265869140625,
+          53.709991455078125
+        ],
+        [
+          237.65625,
+          53.709991455078125
+        ]
+      ]
+    },
+    {
+      "title": "B. Keterangan anggota rumah tangga yang berumur 5 tahun ke atas, 5-17 \ntahun, dan 15 tahun ke atas",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          237.6999969482422,
+          215.77999877929688
+        ],
+        [
+          907.0530395507812,
+          215.77999877929688
+        ],
+        [
+          907.0530395507812,
+          264.1460266113281
+        ],
+        [
+          237.65625,
+          264.1460266113281
+        ]
+      ]
+    },
+    {
+      "title": "DATA YANG \nDIKUMPULKAN(2)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          9.375,
+          246.71200561523438
+        ],
+        [
+          210.7523193359375,
+          246.71200561523438
+        ],
+        [
+          210.7523193359375,
+          309.4800109863281
+        ],
+        [
+          9.375,
+          309.4800109863281
+        ]
+      ]
+    },
+    {
+      "title": "C. Keterangan anggota rumah tangga yang berumur 15 tahun ke atas saja",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          235.78125,
+          43.389984130859375
+        ],
+        [
+          906.7783813476562,
+          43.389984130859375
+        ],
+        [
+          906.7783813476562,
+          65.3499755859375
+        ],
+        [
+          233.90625,
+          65.3499755859375
+        ]
+      ]
+    },
+    {
+      "title": "PROSES BISNIS PENGUMPULAN DATA LAPANGAN (1)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          80.625,
+          54.682891845703125
+        ],
+        [
+          920.9840698242188,
+          54.682891845703125
+        ],
+        [
+          920.9840698242188,
+          94.66690063476562
+        ],
+        [
+          78.75,
+          94.66690063476562
+        ]
+      ]
+    },
+    {
+      "title": "Pemutakhiran muatan SLS dan Penarikan Sampel Sakernas Agustus 2026",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          364.91998291015625,
+          129.462890625
+        ],
+        [
+          883.5964965820312,
+          129.462890625
+        ],
+        [
+          883.5964965820312,
+          148.12283325195312
+        ],
+        [
+          364.6875,
+          148.12283325195312
+        ]
+      ]
+    },
+    {
+      "title": "PROSES BISNIS PENGUMPULAN DATA \nLAPANGAN(2)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          114.84375,
+          58.520263671875
+        ],
+        [
+          790.3560180664062,
+          58.520263671875
+        ],
+        [
+          790.3560180664062,
+          133.40481567382812
+        ],
+        [
+          114.84375,
+          134.208984375
+        ]
+      ]
+    },
+    {
+      "title": "INSTRUMEN SAKERNAS AGUSTUS 2026",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          78.98400115966797,
+          45.12249755859375
+        ],
+        [
+          709.1616821289062,
+          45.12249755859375
+        ],
+        [
+          709.1616821289062,
+          85.08248901367188
+        ],
+        [
+          78.98400115966797,
+          85.08248901367188
+        ]
+      ]
+    },
+    {
+      "title": "JADWAL KEGIATAN SAKERNAS AGUSTUS 2026",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          207.19000244140625,
+          14.77197265625
+        ],
+        [
+          736.875,
+          14.77197265625
+        ],
+        [
+          735.835693359375,
+          42.7559814453125
+        ],
+        [
+          206.25,
+          42.7559814453125
+        ]
+      ]
+    },
+    {
+      "title": "INDIKATOR YANG AKAN DIHASILKAN",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          204.33999633789062,
+          20.40289306640625
+        ],
+        [
+          779.27001953125,
+          20.40289306640625
+        ],
+        [
+          779.27001953125,
+          60.38690185546875
+        ],
+        [
+          203.4375,
+          60.38690185546875
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (1)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          75.9375,
+          14.23828125
+        ],
+        [
+          815.6072998046875,
+          14.23828125
+        ],
+        [
+          815.6072998046875,
+          97.55859375
+        ],
+        [
+          75.9375,
+          97.55859375
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (2)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          75.46875,
+          13.974609375
+        ],
+        [
+          815.6072998046875,
+          13.974609375
+        ],
+        [
+          815.6072998046875,
+          97.822265625
+        ],
+        [
+          75.46875,
+          97.822265625
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (3)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          75.46875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          98.349609375
+        ],
+        [
+          75.46875,
+          98.349609375
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (4)",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          76.19999694824219,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (6)",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.23828125
+        ],
+        [
+          815.6072998046875,
+          14.23828125
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          76.19999694824219,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (7)",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          98.349609375
+        ],
+        [
+          76.19999694824219,
+          98.349609375
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (8)",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          75.9375,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          75.9375,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (9)",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.55859375
+        ],
+        [
+          76.19999694824219,
+          97.55859375
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (11)",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          75.46875,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (13)",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.55859375
+        ],
+        [
+          76.19999694824219,
+          97.55859375
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (14)",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          76.19999694824219,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (15)",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          76.19999694824219,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (17)",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          75.9375,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          75.9375,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (18)",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          75.9375,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.55859375
+        ],
+        [
+          75.9375,
+          97.55859375
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (19)",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          76.19999694824219,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (20)",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          76.19999694824219,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (21)",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          76.19999694824219,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "PERUBAHAN UMUM SAKERNAS MEI 2026 DAN \nAGUSTUS 2026 (22)",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          76.19999694824219,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          14.35247802734375
+        ],
+        [
+          815.6072998046875,
+          97.51690673828125
+        ],
+        [
+          76.19999694824219,
+          97.51690673828125
+        ]
+      ]
+    },
+    {
+      "title": "UPAYA \nPENINGKATAN \nKUALITAS \nDATA \nSAKERNAS \nAGUSTUS \n2026",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          88.80000305175781,
+          32.16796875
+        ],
+        [
+          238.75933837890625,
+          32.16796875
+        ],
+        [
+          238.75933837890625,
+          269.40435791015625
+        ],
+        [
+          88.80000305175781,
+          269.40435791015625
+        ]
+      ]
+    },
+    {
+      "title": "Pengumpulan Fenomena Ketenagakerjaan dan Data \nPendukung",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          278.4375,
+          32.890167236328125
+        ],
+        [
+          877.2219848632812,
+          32.431640625
+        ],
+        [
+          877.2219848632812,
+          85.693359375
+        ],
+        [
+          276.5625,
+          86.748046875
+        ]
+      ]
+    },
+    {
+      "title": "Mengawal Kualitas Data Sakernas",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          81.23999786376953,
+          22.16290283203125
+        ],
+        [
+          582.4794311523438,
+          22.16290283203125
+        ],
+        [
+          582.4794311523438,
+          62.14691162109375
+        ],
+        [
+          81.23999786376953,
+          62.14691162109375
+        ]
+      ]
+    },
+    {
+      "title": "Evaluasi Anomali Data dan Kualitas Indikator Ketenagakerjaan:",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          78.75,
+          73.30999755859375
+        ],
+        [
+          598.2611083984375,
+          73.30999755859375
+        ],
+        [
+          598.2611083984375,
+          93.35000610351562
+        ],
+        [
+          78.75,
+          93.35000610351562
+        ]
+      ]
+    },
+    {
+      "title": "Terima\nkasih",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          109.21875,
+          337.30096435546875
+        ],
+        [
+          291.0220031738281,
+          337.30096435546875
+        ],
+        [
+          291.0220031738281,
+          462.1404495239258
+        ],
+        [
+          109.21875,
+          462.1404495239258
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          298
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          30
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          336
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "TableCell",
+          114
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\01. Penjelasan Umum (Pendahuluan)_SAK AGS26_24.06.2026"
+}

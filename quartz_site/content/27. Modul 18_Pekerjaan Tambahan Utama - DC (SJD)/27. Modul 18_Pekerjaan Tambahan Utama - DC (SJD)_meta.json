@@ -1,0 +1,1185 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SAKERNAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          566.9500122070312,
+          193.289794921875
+        ],
+        [
+          898.59375,
+          193.289794921875
+        ],
+        [
+          896.71875,
+          253.36480712890625
+        ],
+        [
+          565.78125,
+          253.36480712890625
+        ]
+      ]
+    },
+    {
+      "title": "MODUL 18. \nPEKERJAAN TAMBAHAN UTAMA \u2013 DEPENDENT CONTRACTORS (SJD)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.125,
+          27.60992431640625
+        ],
+        [
+          878.496337890625,
+          27.60992431640625
+        ],
+        [
+          878.496337890625,
+          80.94497680664062
+        ],
+        [
+          71.25,
+          80.94497680664062
+        ]
+      ]
+    },
+    {
+      "title": "Tujuan :",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          96.5625,
+          124.453125
+        ],
+        [
+          203.4375,
+          123.3984375
+        ],
+        [
+          203.4375,
+          153.05682373046875
+        ],
+        [
+          96.5625,
+          153.984375
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.1\n(SJD_REM_T)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          73.82499694824219,
+          25.5567626953125
+        ],
+        [
+          261.67730712890625,
+          25.5567626953125
+        ],
+        [
+          261.67730712890625,
+          86.94998168945312
+        ],
+        [
+          73.125,
+          86.94998168945312
+        ]
+      ]
+    },
+    {
+      "title": "Tujuan:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          76.40625,
+          121.99993896484375
+        ],
+        [
+          162.4180145263672,
+          121.2890625
+        ],
+        [
+          162.4180145263672,
+          146.02496337890625
+        ],
+        [
+          76.40625,
+          146.02496337890625
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.1\n(SJD_REM_T)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          73.82499694824219,
+          25.5567626953125
+        ],
+        [
+          261.67730712890625,
+          25.5567626953125
+        ],
+        [
+          261.67730712890625,
+          86.94998168945312
+        ],
+        [
+          73.82499694824219,
+          87.01171875
+        ]
+      ]
+    },
+    {
+      "title": "Catatan :",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          37.96875,
+          111.20187377929688
+        ],
+        [
+          140.86090087890625,
+          110.478515625
+        ],
+        [
+          140.86090087890625,
+          135.22686767578125
+        ],
+        [
+          37.96875,
+          135.22686767578125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.2.A (SJJ_UPAH), \n18.2.B (SJJ_PLUS), 18.3 \n(SJJ_LABA)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          30.9375,
+          27.06494140625
+        ],
+        [
+          432.4375,
+          27.06494140625
+        ],
+        [
+          432.4375,
+          122.44992065429688
+        ],
+        [
+          29.0625,
+          122.44992065429688
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          32.47500228881836,
+          170.5030517578125
+        ],
+        [
+          188.05130004882812,
+          170.5030517578125
+        ],
+        [
+          188.05130004882812,
+          198.278076171875
+        ],
+        [
+          32.47500228881836,
+          198.28125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.2.A (SJJ_UPAH)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          33.20000076293945,
+          50.6849365234375
+        ],
+        [
+          416.6770935058594,
+          50.6849365234375
+        ],
+        [
+          416.6770935058594,
+          80.73495483398438
+        ],
+        [
+          33.20000076293945,
+          80.73495483398438
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.2.B (SJJ_PLUS)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          532.03125,
+          50.6849365234375
+        ],
+        [
+          905.8471069335938,
+          50.6849365234375
+        ],
+        [
+          905.8471069335938,
+          80.73495483398438
+        ],
+        [
+          530.15625,
+          80.73495483398438
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.3 (SJJ_LABA)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          32.34375,
+          50.6849365234375
+        ],
+        [
+          382.03125,
+          50.6849365234375
+        ],
+        [
+          381.5071105957031,
+          80.73495483398438
+        ],
+        [
+          30.46875,
+          80.73495483398438
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.4\n(SJD_SINGLE)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          30.0,
+          70.99301147460938
+        ],
+        [
+          266.99078369140625,
+          70.99301147460938
+        ],
+        [
+          266.99078369140625,
+          144.13494873046875
+        ],
+        [
+          28.125,
+          144.228515625
+        ]
+      ]
+    },
+    {
+      "title": "Tujuan:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.5625,
+          197.2530517578125
+        ],
+        [
+          136.72129821777344,
+          196.69921875
+        ],
+        [
+          136.72129821777344,
+          225.028076171875
+        ],
+        [
+          36.5625,
+          225.17578125
+        ]
+      ]
+    },
+    {
+      "title": "Catatan:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          196.875,
+          413.7530746459961
+        ],
+        [
+          312.1795959472656,
+          413.7530746459961
+        ],
+        [
+          312.1795959472656,
+          441.5530700683594
+        ],
+        [
+          196.875,
+          441.5530700683594
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.5\n(SJD_SOURCE)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          29.53125,
+          70.99301147460938
+        ],
+        [
+          266.99078369140625,
+          70.99301147460938
+        ],
+        [
+          266.99078369140625,
+          144.4921875
+        ],
+        [
+          27.65625,
+          145.546875
+        ]
+      ]
+    },
+    {
+      "title": "Tujuan:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          30.0,
+          162.95309448242188
+        ],
+        [
+          131.24960327148438,
+          162.685546875
+        ],
+        [
+          131.24960327148438,
+          190.75308227539062
+        ],
+        [
+          30.0,
+          191.689453125
+        ]
+      ]
+    },
+    {
+      "title": "Catatan:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          86.32499694824219,
+          342.8630676269531
+        ],
+        [
+          199.7095947265625,
+          342.7734375
+        ],
+        [
+          199.7095947265625,
+          370.66307067871094
+        ],
+        [
+          86.32499694824219,
+          370.66307067871094
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.6\n(SJD_CONT)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          30.46875,
+          70.99301147460938
+        ],
+        [
+          266.99078369140625,
+          70.99301147460938
+        ],
+        [
+          266.99078369140625,
+          144.13494873046875
+        ],
+        [
+          28.59375,
+          144.755859375
+        ]
+      ]
+    },
+    {
+      "title": "Tujuan:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          441.4700012207031,
+          142.91015625
+        ],
+        [
+          526.40625,
+          141.85546875
+        ],
+        [
+          526.40625,
+          167.09494018554688
+        ],
+        [
+          441.4700012207031,
+          167.16796875
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.6\n(SJD_CONT)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          28.125,
+          20.7430419921875
+        ],
+        [
+          266.99078369140625,
+          20.7430419921875
+        ],
+        [
+          266.99078369140625,
+          93.88494873046875
+        ],
+        [
+          26.25,
+          93.88494873046875
+        ]
+      ]
+    },
+    {
+      "title": "Catatan:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          41.25,
+          108.77993774414062
+        ],
+        [
+          139.55630493164062,
+          108.6328125
+        ],
+        [
+          139.55630493164062,
+          132.80496215820312
+        ],
+        [
+          41.25,
+          132.80496215820312
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.6\n(SJD_CONT)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          30.0,
+          20.7430419921875
+        ],
+        [
+          266.99078369140625,
+          20.7430419921875
+        ],
+        [
+          266.99078369140625,
+          93.88494873046875
+        ],
+        [
+          28.125,
+          93.88494873046875
+        ]
+      ]
+    },
+    {
+      "title": "Catatan:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          41.25,
+          108.77993774414062
+        ],
+        [
+          139.55630493164062,
+          108.77993774414062
+        ],
+        [
+          139.55630493164062,
+          132.80496215820312
+        ],
+        [
+          41.25,
+          132.80496215820312
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 18.6 (1)\n(SJD_CONT)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          29.53125,
+          29.343048095703125
+        ],
+        [
+          294.84375,
+          29.343048095703125
+        ],
+        [
+          293.4014587402344,
+          102.48495483398438
+        ],
+        [
+          27.65625,
+          102.83203125
+        ]
+      ]
+    },
+    {
+      "title": "Catatan:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          41.599998474121094,
+          127.46994018554688
+        ],
+        [
+          138.85630798339844,
+          127.353515625
+        ],
+        [
+          138.85630798339844,
+          151.49496459960938
+        ],
+        [
+          41.599998474121094,
+          151.49496459960938
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "TableCell",
+          52
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "TableCell",
+          31
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\27. Modul 18_Pekerjaan Tambahan Utama - DC (SJD)"
+}

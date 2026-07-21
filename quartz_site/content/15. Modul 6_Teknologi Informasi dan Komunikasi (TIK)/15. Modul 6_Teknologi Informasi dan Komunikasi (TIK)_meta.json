@@ -1,0 +1,2211 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SAKERNAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          579.0,
+          129.0
+        ],
+        [
+          929.25,
+          129.0
+        ],
+        [
+          929.25,
+          177.0
+        ],
+        [
+          579.0,
+          177.0
+        ]
+      ]
+    },
+    {
+      "title": "Modul 06: \nTeknologi Informasi dan Komunikasi (TIK)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          89.0625,
+          39.005157470703125
+        ],
+        [
+          899.7029418945312,
+          39.005157470703125
+        ],
+        [
+          899.7029418945312,
+          122.34375
+        ],
+        [
+          89.0625,
+          123.3984375
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.1 (TIK_HP)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          22.607999801635742,
+          14.8345947265625
+        ],
+        [
+          332.05767822265625,
+          14.501953125
+        ],
+        [
+          332.05767822265625,
+          46.874603271484375
+        ],
+        [
+          22.607999801635742,
+          46.874603271484375
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.1 \n(TIK_HP)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.65625,
+          16.083984375
+        ],
+        [
+          218.02952575683594,
+          15.029296875
+        ],
+        [
+          218.02952575683594,
+          87.275390625
+        ],
+        [
+          42.65625,
+          88.330078125
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          274.6875,
+          14.23828125
+        ],
+        [
+          386.8924255371094,
+          14.23828125
+        ],
+        [
+          386.8924255371094,
+          35.33203125
+        ],
+        [
+          272.8125,
+          35.33203125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 (TIK_TI)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.90625,
+          16.654541015625
+        ],
+        [
+          332.85162353515625,
+          16.083984375
+        ],
+        [
+          332.85162353515625,
+          48.694580078125
+        ],
+        [
+          37.03125,
+          48.694580078125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 (TIK_TI_A)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          22.5,
+          32.431640625
+        ],
+        [
+          197.9143524169922,
+          31.376953125
+        ],
+        [
+          197.9143524169922,
+          104.0946044921875
+        ],
+        [
+          22.5,
+          104.677734375
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan\n:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          338.90625,
+          10.810546875
+        ],
+        [
+          443.5460205078125,
+          10.810546875
+        ],
+        [
+          443.5460205078125,
+          29.4149169921875
+        ],
+        [
+          337.03125,
+          29.4149169921875
+        ]
+      ]
+    },
+    {
+      "title": "a. Komputer",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          338.90625,
+          39.287109375
+        ],
+        [
+          463.1255798339844,
+          38.232421875
+        ],
+        [
+          463.1255798339844,
+          59.344635009765625
+        ],
+        [
+          337.03125,
+          59.853515625
+        ]
+      ]
+    },
+    {
+      "title": "1. PC (Personal Computer)/Desktop",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          343.125,
+          80.419921875
+        ],
+        [
+          650.9860229492188,
+          79.365234375
+        ],
+        [
+          650.9860229492188,
+          99.01492309570312
+        ],
+        [
+          341.25,
+          99.931640625
+        ]
+      ]
+    },
+    {
+      "title": "2. Laptop/Notebook",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          342.65625,
+          178.2421875
+        ],
+        [
+          521.0480346679688,
+          178.2421875
+        ],
+        [
+          521.0480346679688,
+          199.3359375
+        ],
+        [
+          342.65625,
+          199.3359375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          791.25,
+          214.365234375
+        ],
+        [
+          926.25,
+          213.310546875
+        ],
+        [
+          926.25,
+          319.306640625
+        ],
+        [
+          791.25,
+          320.361328125
+        ]
+      ]
+    },
+    {
+      "title": "3. Tablet (atau sejenis komputer genggam)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          343.7300109863281,
+          339.873046875
+        ],
+        [
+          716.2520141601562,
+          338.818359375
+        ],
+        [
+          716.2520141601562,
+          359.2749481201172
+        ],
+        [
+          343.7300109863281,
+          359.384765625
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 \n(TIK_TI_A)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          34.6875,
+          32.6953125
+        ],
+        [
+          209.6503448486328,
+          31.640625
+        ],
+        [
+          209.6503448486328,
+          104.0946044921875
+        ],
+        [
+          34.6875,
+          104.4140625
+        ]
+      ]
+    },
+    {
+      "title": "Contoh:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          363.28125,
+          31.8446044921875
+        ],
+        [
+          442.73504638671875,
+          31.8446044921875
+        ],
+        [
+          442.73504638671875,
+          51.884613037109375
+        ],
+        [
+          361.40625,
+          51.884613037109375
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 \n(TIK_TI_B)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          18.28125,
+          22.412109375
+        ],
+        [
+          194.06666564941406,
+          21.357421875
+        ],
+        [
+          194.06666564941406,
+          93.603515625
+        ],
+        [
+          18.28125,
+          94.658203125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2: \nDalam tiga bulan \nterakhir, apakah \n(NAMA) menggunakan \nteknologi berikut ini?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          26.25,
+          122.87109375
+        ],
+        [
+          233.18402099609375,
+          121.81640625
+        ],
+        [
+          233.18402099609375,
+          227.87490844726562
+        ],
+        [
+          24.375,
+          228.33984375
+        ]
+      ]
+    },
+    {
+      "title": "b. Telepon seluler/telepon pintar (HP/smartphone)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          281.8599853515625,
+          23.466796875
+        ],
+        [
+          769.9536743164062,
+          23.466796875
+        ],
+        [
+          769.9536743164062,
+          44.104644775390625
+        ],
+        [
+          280.3125,
+          44.104644775390625
+        ]
+      ]
+    },
+    {
+      "title": "Tujuan Pertanyaan:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          289.6875,
+          72.509765625
+        ],
+        [
+          456.4940185546875,
+          72.509765625
+        ],
+        [
+          456.4940185546875,
+          90.966796875
+        ],
+        [
+          287.8125,
+          90.966796875
+        ]
+      ]
+    },
+    {
+      "title": "Definisi:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          287.34375,
+          196.69921875
+        ],
+        [
+          361.47198486328125,
+          196.69921875
+        ],
+        [
+          361.47198486328125,
+          215.29495239257812
+        ],
+        [
+          287.34375,
+          215.29495239257812
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 \n(TIK_TI_B)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          17.34375,
+          21.357421875
+        ],
+        [
+          194.06666564941406,
+          20.302734375
+        ],
+        [
+          194.06666564941406,
+          93.603515625
+        ],
+        [
+          17.34375,
+          94.658203125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2: \nDalam tiga bulan \nterakhir, apakah \n(NAMA) menggunakan \nteknologi berikut ini?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          26.25,
+          121.552734375
+        ],
+        [
+          233.06402587890625,
+          120.498046875
+        ],
+        [
+          233.06402587890625,
+          227.75494384765625
+        ],
+        [
+          24.375,
+          227.75494384765625
+        ]
+      ]
+    },
+    {
+      "title": "Kriteria Penggunaan Telepon Seluler/telepon pintar:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          284.69000244140625,
+          12.392578125
+        ],
+        [
+          740.8359985351562,
+          11.337890625
+        ],
+        [
+          740.8359985351562,
+          30.849609375
+        ],
+        [
+          283.125,
+          31.904296875
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          294.375,
+          244.14492797851562
+        ],
+        [
+          395.8160095214844,
+          244.14492797851562
+        ],
+        [
+          395.8160095214844,
+          263.14453125
+        ],
+        [
+          294.375,
+          263.14453125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 \n(TIK_TI_B)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          18.75,
+          22.1484375
+        ],
+        [
+          194.06666564941406,
+          21.09375
+        ],
+        [
+          194.06666564941406,
+          93.8671875
+        ],
+        [
+          18.75,
+          94.921875
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan Tambahan:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          284.53125,
+          36.4249267578125
+        ],
+        [
+          480.3440246582031,
+          36.123046875
+        ],
+        [
+          480.3440246582031,
+          54.580078125
+        ],
+        [
+          282.65625,
+          55.634765625
+        ]
+      ]
+    },
+    {
+      "title": "Contoh:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          282.65625,
+          276.064453125
+        ],
+        [
+          356.1469421386719,
+          276.064453125
+        ],
+        [
+          356.1469421386719,
+          294.42974853515625
+        ],
+        [
+          282.65625,
+          294.42974853515625
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 (TIK_TI_C)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          23.040000915527344,
+          22.67578125
+        ],
+        [
+          197.9143524169922,
+          21.62109375
+        ],
+        [
+          197.9143524169922,
+          93.77459716796875
+        ],
+        [
+          22.5,
+          94.39453125
+        ]
+      ]
+    },
+    {
+      "title": "c. Teknologi Digital Lain",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          284.0625,
+          21.62109375
+        ],
+        [
+          495.656005859375,
+          20.56640625
+        ],
+        [
+          495.656005859375,
+          39.784942626953125
+        ],
+        [
+          282.1875,
+          39.784942626953125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 \n(TIK_TI_C)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          23.040000915527344,
+          14.25457763671875
+        ],
+        [
+          197.9143524169922,
+          13.447265625
+        ],
+        [
+          197.9143524169922,
+          84.694580078125
+        ],
+        [
+          23.040000915527344,
+          84.694580078125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 \n(TIK_TI_D)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          29.53125,
+          18.45703125
+        ],
+        [
+          205.5172119140625,
+          17.40234375
+        ],
+        [
+          205.5172119140625,
+          89.12109375
+        ],
+        [
+          29.53125,
+          90.17578125
+        ]
+      ]
+    },
+    {
+      "title": "d. Internet",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          293.2799987792969,
+          35.969940185546875
+        ],
+        [
+          414.84375,
+          35.859375
+        ],
+        [
+          414.40802001953125,
+          59.969940185546875
+        ],
+        [
+          293.2799987792969,
+          59.969940185546875
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 \n(TIK_TI_D)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          30.46875,
+          18.193359375
+        ],
+        [
+          205.5172119140625,
+          17.138671875
+        ],
+        [
+          205.5172119140625,
+          89.384765625
+        ],
+        [
+          30.46875,
+          90.439453125
+        ]
+      ]
+    },
+    {
+      "title": "Kriteria Penggunaan Internet:",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          296.25,
+          30.544921875
+        ],
+        [
+          556.885986328125,
+          29.53125
+        ],
+        [
+          556.885986328125,
+          48.544921875
+        ],
+        [
+          296.25,
+          49.5703125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.2 \n(TIK_TI_D)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          13.125,
+          17.40234375
+        ],
+        [
+          189.63433837890625,
+          16.34765625
+        ],
+        [
+          189.63433837890625,
+          88.25460815429688
+        ],
+        [
+          13.125,
+          89.12109375
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan Tambahan:",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          204.5500030517578,
+          12.47576904296875
+        ],
+        [
+          398.578369140625,
+          11.6015625
+        ],
+        [
+          398.578369140625,
+          30.5859375
+        ],
+        [
+          203.4375,
+          31.640625
+        ]
+      ]
+    },
+    {
+      "title": "CATATAN:",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          218.4375,
+          372.18524169921875
+        ],
+        [
+          304.61724853515625,
+          372.18524169921875
+        ],
+        [
+          304.61724853515625,
+          388.14524841308594
+        ],
+        [
+          218.4375,
+          388.14524841308594
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.3 (TIK_INET)",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          34.7760009765625,
+          22.08538818359375
+        ],
+        [
+          372.8448486328125,
+          22.08538818359375
+        ],
+        [
+          372.8448486328125,
+          54.1494140625
+        ],
+        [
+          34.21875,
+          54.1494140625
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.3: \nDalam tiga bulan terakhir, apakah",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          54.375,
+          104.9149169921875
+        ],
+        [
+          355.5860290527344,
+          104.9149169921875
+        ],
+        [
+          355.5860290527344,
+          144.51492309570312
+        ],
+        [
+          52.5,
+          144.51492309570312
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.3 \n(TIK_INET_A s.d. \nTIK_INET_C)",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          59.0625,
+          17.85455322265625
+        ],
+        [
+          320.31561279296875,
+          17.40234375
+        ],
+        [
+          320.31561279296875,
+          126.72457885742188
+        ],
+        [
+          57.1875,
+          127.08984375
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.3:",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          71.71875,
+          161.89453125
+        ],
+        [
+          176.27000427246094,
+          160.83984375
+        ],
+        [
+          176.27000427246094,
+          180.47491455078125
+        ],
+        [
+          71.71875,
+          180.47491455078125
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan:",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          472.5,
+          54.31640625
+        ],
+        [
+          573.5960083007812,
+          53.26171875
+        ],
+        [
+          573.5960083007812,
+          72.56494140625
+        ],
+        [
+          470.625,
+          73.30078125
+        ]
+      ]
+    },
+    {
+      "title": "a. Komunikasi",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          472.03125,
+          88.16494750976562
+        ],
+        [
+          595.5660400390625,
+          88.16494750976562
+        ],
+        [
+          595.5660400390625,
+          106.16494750976562
+        ],
+        [
+          472.03125,
+          106.16494750976562
+        ]
+      ]
+    },
+    {
+      "title": "b. Mengakses Informasi",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          472.96875,
+          183.71493530273438
+        ],
+        [
+          681.35400390625,
+          182.98828125
+        ],
+        [
+          681.35400390625,
+          201.71493530273438
+        ],
+        [
+          472.96875,
+          201.97265625
+        ]
+      ]
+    },
+    {
+      "title": "c. Penjualan Barang/Jasa",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          472.03125,
+          301.9349365234375
+        ],
+        [
+          690.0480346679688,
+          301.640625
+        ],
+        [
+          690.0480346679688,
+          319.9349365234375
+        ],
+        [
+          472.03125,
+          320.625
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.3 \n(TIK_INET_D) d. Pembelian Barang/Jasa",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          42.04800033569336,
+          33.58538818359375
+        ],
+        [
+          707.7960205078125,
+          32.958984375
+        ],
+        [
+          707.7960205078125,
+          104.06460571289062
+        ],
+        [
+          40.3125,
+          104.150390625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          482.8125,
+          75.673828125
+        ],
+        [
+          705.9375,
+          74.619140625
+        ],
+        [
+          704.0625,
+          92.021484375
+        ],
+        [
+          480.9375,
+          93.076171875
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.3 \n(TIK_INET_E)",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          22.03125,
+          23.994140625
+        ],
+        [
+          221.6298065185547,
+          22.939453125
+        ],
+        [
+          221.6298065185547,
+          95.64459228515625
+        ],
+        [
+          22.03125,
+          96.240234375
+        ]
+      ]
+    },
+    {
+      "title": "e. Internet Banking",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          345.0,
+          15.35491943359375
+        ],
+        [
+          512.823974609375,
+          15.35491943359375
+        ],
+        [
+          512.823974609375,
+          34.541015625
+        ],
+        [
+          343.125,
+          35.595703125
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Contoh Termasuk:",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          345.0,
+          184.06015014648438
+        ],
+        [
+          527.1600341796875,
+          184.06015014648438
+        ],
+        [
+          527.1600341796875,
+          202.28494262695312
+        ],
+        [
+          345.0,
+          202.28494262695312
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Contoh Tidak Termasuk:",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          346.875,
+          379.7301330566406
+        ],
+        [
+          579.6000366210938,
+          379.7301330566406
+        ],
+        [
+          579.6000366210938,
+          397.95494079589844
+        ],
+        [
+          345.0,
+          397.95494079589844
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.3 \n(TIK_INET_F)",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          45.9375,
+          45.275390625
+        ],
+        [
+          243.67657470703125,
+          44.296875
+        ],
+        [
+          243.67657470703125,
+          115.75460815429688
+        ],
+        [
+          44.0625,
+          116.015625
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 6.3 (TIK_INET)",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          29.61600112915039,
+          19.654541015625
+        ],
+        [
+          367.62152099609375,
+          19.654541015625
+        ],
+        [
+          367.62152099609375,
+          51.694580078125
+        ],
+        [
+          29.61600112915039,
+          51.694580078125
+        ]
+      ]
+    },
+    {
+      "title": "Contoh:",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          218.90625,
+          76.9921875
+        ],
+        [
+          289.0760192871094,
+          75.9375
+        ],
+        [
+          289.0760192871094,
+          95.24493408203125
+        ],
+        [
+          217.03125,
+          95.24493408203125
+        ]
+      ]
+    },
+    {
+      "title": "SAKERNAS AGUSTUS \n2026",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          500.15625,
+          202.47540283203125
+        ],
+        [
+          841.46923828125,
+          202.47540283203125
+        ],
+        [
+          841.46923828125,
+          272.9546203613281
+        ],
+        [
+          500.15625,
+          272.9546203613281
+        ]
+      ]
+    },
+    {
+      "title": "Terima\nKasih",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          109.6875,
+          336.82061767578125
+        ],
+        [
+          306.89837646484375,
+          336.82061767578125
+        ],
+        [
+          306.89837646484375,
+          461.66578674316406
+        ],
+        [
+          107.8125,
+          461.66578674316406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          240
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "ListItem",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\15. Modul 6_Teknologi Informasi dan Komunikasi (TIK)"
+}

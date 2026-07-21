@@ -1,0 +1,1320 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MODUL 7. BEKERJA (ATW)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          16.296001434326172,
+          22.412109375
+        ],
+        [
+          430.74530029296875,
+          21.357421875
+        ],
+        [
+          430.74530029296875,
+          54.509429931640625
+        ],
+        [
+          16.296001434326172,
+          54.509429931640625
+        ]
+      ]
+    },
+    {
+      "title": "MODUL 7. BEKERJA (ATW)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          16.296001434326172,
+          22.412109375
+        ],
+        [
+          430.74530029296875,
+          21.357421875
+        ],
+        [
+          430.74530029296875,
+          54.509429931640625
+        ],
+        [
+          16.296001434326172,
+          54.509429931640625
+        ]
+      ]
+    },
+    {
+      "title": "Ruang Lingkup",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          113.4375,
+          120.38519287109375
+        ],
+        [
+          317.9579162597656,
+          120.38519287109375
+        ],
+        [
+          317.9579162597656,
+          148.447265625
+        ],
+        [
+          111.5625,
+          149.501953125
+        ]
+      ]
+    },
+    {
+      "title": "MODUL 7. BEKERJA (ATW)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          16.296001434326172,
+          22.4454345703125
+        ],
+        [
+          430.74530029296875,
+          21.62109375
+        ],
+        [
+          430.74530029296875,
+          54.509429931640625
+        ],
+        [
+          16.296001434326172,
+          54.509429931640625
+        ]
+      ]
+    },
+    {
+      "title": "Konsep Bekerja",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          113.47000122070312,
+          120.38519287109375
+        ],
+        [
+          326.3360595703125,
+          120.38519287109375
+        ],
+        [
+          326.3360595703125,
+          148.447265625
+        ],
+        [
+          113.47000122070312,
+          148.447265625
+        ]
+      ]
+    },
+    {
+      "title": "MODUL 7. BEKERJA (ATW)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          16.296001434326172,
+          22.4454345703125
+        ],
+        [
+          430.74530029296875,
+          21.884765625
+        ],
+        [
+          430.74530029296875,
+          54.509429931640625
+        ],
+        [
+          16.296001434326172,
+          54.509429931640625
+        ]
+      ]
+    },
+    {
+      "title": "Tidak Termasuk Bekerja",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          111.09375,
+          120.234375
+        ],
+        [
+          435.4160461425781,
+          119.1796875
+        ],
+        [
+          435.4160461425781,
+          148.34518432617188
+        ],
+        [
+          109.21875,
+          148.7109375
+        ]
+      ]
+    },
+    {
+      "title": "Contoh tidak bekerja:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          97.5,
+          315.087890625
+        ],
+        [
+          289.2760009765625,
+          314.033203125
+        ],
+        [
+          289.2760009765625,
+          333.5149383544922
+        ],
+        [
+          97.5,
+          333.544921875
+        ]
+      ]
+    },
+    {
+      "title": "Sebaliknya:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          97.5,
+          423.984375
+        ],
+        [
+          201.55599975585938,
+          423.984375
+        ],
+        [
+          201.55599975585938,
+          443.22493743896484
+        ],
+        [
+          97.5,
+          443.22493743896484
+        ]
+      ]
+    },
+    {
+      "title": "BAGAN LOGIKA MODUL 7 \u2013 IDENTIFIKASI PENDUDUK BEKERJA",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          65.04000091552734,
+          27.969970703125
+        ],
+        [
+          437.34375,
+          27.421875
+        ],
+        [
+          437.239990234375,
+          39.969970703125
+        ],
+        [
+          63.28125,
+          39.969970703125
+        ]
+      ]
+    },
+    {
+      "title": "ATW_INTRO",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          51.5625,
+          24.0806884765625
+        ],
+        [
+          270.29931640625,
+          24.0806884765625
+        ],
+        [
+          270.29931640625,
+          60.104705810546875
+        ],
+        [
+          51.5625,
+          60.104705810546875
+        ]
+      ]
+    },
+    {
+      "title": "TANYAKAN UNTUK SETIAP ART BERUMUR 5 TAHUN KE ATAS DAN CATAT DI LEMBAR KERJA JIKA DIPERLUKAN",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          135.0,
+          240.99609375
+        ],
+        [
+          841.875,
+          239.94140625
+        ],
+        [
+          841.8436889648438,
+          255.70962524414062
+        ],
+        [
+          133.125,
+          255.70962524414062
+        ]
+      ]
+    },
+    {
+      "title": "Tujuan Pertanyaan",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          503.4375,
+          344.35546875
+        ],
+        [
+          685.3125,
+          344.35546875
+        ],
+        [
+          685.3125,
+          365.44921875
+        ],
+        [
+          503.4375,
+          365.44921875
+        ]
+      ]
+    },
+    {
+      "title": "7.1 ATW_PAY",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          119.27999877929688,
+          36.705169677734375
+        ],
+        [
+          379.9391174316406,
+          36.705169677734375
+        ],
+        [
+          379.9391174316406,
+          76.6651611328125
+        ],
+        [
+          117.65625,
+          76.6651611328125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          157.03125,
+          127.6171875
+        ],
+        [
+          214.21875,
+          126.5625
+        ],
+        [
+          212.34375,
+          138.1640625
+        ],
+        [
+          155.15625,
+          139.21875
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          564.375,
+          149.765625
+        ],
+        [
+          664.6437377929688,
+          148.7109375
+        ],
+        [
+          664.6437377929688,
+          170.859375
+        ],
+        [
+          562.5,
+          171.9140625
+        ]
+      ]
+    },
+    {
+      "title": "7.1 ATW_PAY (lanjutan)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          119.27999877929688,
+          36.705169677734375
+        ],
+        [
+          482.34375,
+          36.705169677734375
+        ],
+        [
+          481.9836730957031,
+          76.6651611328125
+        ],
+        [
+          119.27999877929688,
+          76.6651611328125
+        ]
+      ]
+    },
+    {
+      "title": "Termasuk bekerja untuk memperoleh bayaran/upah/gaji, yaitu:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          125.15625,
+          160.3125
+        ],
+        [
+          611.7980346679688,
+          160.3125
+        ],
+        [
+          611.7980346679688,
+          178.18524169921875
+        ],
+        [
+          125.15625,
+          178.18524169921875
+        ]
+      ]
+    },
+    {
+      "title": "Contoh:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          126.5625,
+          302.7752380371094
+        ],
+        [
+          189.1387176513672,
+          301.904296875
+        ],
+        [
+          189.1387176513672,
+          318.73524475097656
+        ],
+        [
+          126.5625,
+          318.73524475097656
+        ]
+      ]
+    },
+    {
+      "title": "Tidak termasuk bekerja untuk mendapatkan bayaran/upah/gaji, yaitu:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          127.03125,
+          402.51524353027344
+        ],
+        [
+          664.8580322265625,
+          401.8359375
+        ],
+        [
+          664.8580322265625,
+          418.7109375
+        ],
+        [
+          125.15625,
+          419.765625
+        ]
+      ]
+    },
+    {
+      "title": "7.2 ATW_PFT",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          119.27999877929688,
+          36.705169677734375
+        ],
+        [
+          375.46875,
+          36.705169677734375
+        ],
+        [
+          375.0681457519531,
+          76.6651611328125
+        ],
+        [
+          119.27999877929688,
+          76.6651611328125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          151.40625,
+          93.8671875
+        ],
+        [
+          204.84375,
+          92.8125
+        ],
+        [
+          202.96875,
+          103.359375
+        ],
+        [
+          149.53125,
+          104.4140625
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          108.9800033569336,
+          301.11328125
+        ],
+        [
+          202.85000610351562,
+          300.05859375
+        ],
+        [
+          202.85000610351562,
+          320.09765625
+        ],
+        [
+          108.9800033569336,
+          321.15234375
+        ]
+      ]
+    },
+    {
+      "title": "7.2 ATW_PFT (lanjutan)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          119.27999877929688,
+          36.705169677734375
+        ],
+        [
+          477.1875,
+          36.705169677734375
+        ],
+        [
+          477.18365478515625,
+          76.6651611328125
+        ],
+        [
+          119.27999877929688,
+          76.6651611328125
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          128.90625,
+          123.662109375
+        ],
+        [
+          228.79600524902344,
+          122.607421875
+        ],
+        [
+          228.79600524902344,
+          141.83493041992188
+        ],
+        [
+          128.90625,
+          142.119140625
+        ]
+      ]
+    },
+    {
+      "title": "7.3 ATW_FAM",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          119.27999877929688,
+          36.705169677734375
+        ],
+        [
+          391.45172119140625,
+          36.705169677734375
+        ],
+        [
+          391.45172119140625,
+          76.6651611328125
+        ],
+        [
+          119.27999877929688,
+          76.6651611328125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          152.8125,
+          128.408203125
+        ],
+        [
+          209.0625,
+          127.353515625
+        ],
+        [
+          207.1875,
+          138.427734375
+        ],
+        [
+          150.9375,
+          139.482421875
+        ]
+      ]
+    },
+    {
+      "title": "Penjelasan",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          534.3599853515625,
+          174.55078125
+        ],
+        [
+          633.0767822265625,
+          173.49609375
+        ],
+        [
+          633.0767822265625,
+          194.35256958007812
+        ],
+        [
+          534.3599853515625,
+          194.58984375
+        ]
+      ]
+    },
+    {
+      "title": "7.3 ATW_FAM (lanjutan)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          119.27999877929688,
+          36.705169677734375
+        ],
+        [
+          495.9375,
+          36.705169677734375
+        ],
+        [
+          494.46368408203125,
+          76.6651611328125
+        ],
+        [
+          119.0625,
+          76.6651611328125
+        ]
+      ]
+    },
+    {
+      "title": "Contoh:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          139.9399871826172,
+          161.89453125
+        ],
+        [
+          214.25599670410156,
+          160.83984375
+        ],
+        [
+          214.25599670410156,
+          180.15493774414062
+        ],
+        [
+          139.21875,
+          180.15493774414062
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          107.8125,
+          336.4453125
+        ],
+        [
+          319.6875,
+          336.4453125
+        ],
+        [
+          319.6875,
+          451.40625
+        ],
+        [
+          107.8125,
+          451.40625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Line",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          278
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\16. Modul 7_Bekerja (ATW)_rev ws intama"
+}

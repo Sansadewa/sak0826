@@ -1,0 +1,853 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SAKERNAS\nB A H A N A J A R",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          584.8499755859375,
+          165.114990234375
+        ],
+        [
+          905.7706298828125,
+          165.05859375
+        ],
+        [
+          905.7706298828125,
+          252.18487548828125
+        ],
+        [
+          584.8499755859375,
+          252.18487548828125
+        ]
+      ]
+    },
+    {
+      "title": "Mekanisme Pendataan",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.25,
+          75.89675903320312
+        ],
+        [
+          553.4371948242188,
+          75.89675903320312
+        ],
+        [
+          553.4371948242188,
+          120.19674682617188
+        ],
+        [
+          69.25,
+          120.19674682617188
+        ]
+      ]
+    },
+    {
+      "title": "Mekanisme Utama \nPendataan Sakernas\nAgustus 2026",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.35000610351562,
+          159.13796997070312
+        ],
+        [
+          344.0625,
+          159.13796997070312
+        ],
+        [
+          343.1178894042969,
+          268.0479431152344
+        ],
+        [
+          74.0625,
+          268.0479431152344
+        ]
+      ]
+    },
+    {
+      "title": "TAHAPAN WAWANCARA LANGSUNG/TATAP MUKA(1)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.21875,
+          22.31201171875
+        ],
+        [
+          673.0724487304688,
+          22.31201171875
+        ],
+        [
+          673.0724487304688,
+          54.25494384765625
+        ],
+        [
+          64.21875,
+          54.25494384765625
+        ]
+      ]
+    },
+    {
+      "title": "TAHAPAN WAWANCARA LANGSUNG/TATAP MUKA(2)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          65.72499084472656,
+          22.31201171875
+        ],
+        [
+          673.0724487304688,
+          22.31201171875
+        ],
+        [
+          673.0724487304688,
+          54.25494384765625
+        ],
+        [
+          65.72499084472656,
+          54.25494384765625
+        ]
+      ]
+    },
+    {
+      "title": "TAHAPAN WAWANCARA LANGSUNG/TATAP MUKA(3)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          64.21875,
+          22.31201171875
+        ],
+        [
+          673.0724487304688,
+          22.31201171875
+        ],
+        [
+          673.0724487304688,
+          54.25494384765625
+        ],
+        [
+          64.21875,
+          54.25494384765625
+        ]
+      ]
+    },
+    {
+      "title": "TAHAPAN WAWANCARA LANGSUNG/TATAP MUKA(4)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          62.8125,
+          22.31201171875
+        ],
+        [
+          673.0724487304688,
+          22.31201171875
+        ],
+        [
+          673.0724487304688,
+          54.25494384765625
+        ],
+        [
+          62.8125,
+          54.25494384765625
+        ]
+      ]
+    },
+    {
+      "title": "Mekanisme Mitigasi\nPendataan Sakernas\nAgustus 2026",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          75.35000610351562,
+          159.13796997070312
+        ],
+        [
+          344.53125,
+          159.13796997070312
+        ],
+        [
+          343.6401062011719,
+          268.0479431152344
+        ],
+        [
+          73.59375,
+          268.9453125
+        ]
+      ]
+    },
+    {
+      "title": "MITIGASI PENDATAAN DENGAN TELEPON(1)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          26.07499885559082,
+          22.75201416015625
+        ],
+        [
+          529.7118530273438,
+          22.75201416015625
+        ],
+        [
+          529.7118530273438,
+          59.42083740234375
+        ],
+        [
+          24.84375,
+          59.42083740234375
+        ]
+      ]
+    },
+    {
+      "title": "MITIGASI PENDATAAN DENGAN TELEPON(2)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          26.07499885559082,
+          22.75201416015625
+        ],
+        [
+          529.7118530273438,
+          22.75201416015625
+        ],
+        [
+          529.7118530273438,
+          59.42083740234375
+        ],
+        [
+          26.07499885559082,
+          59.42083740234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          40.78125,
+          73.037109375
+        ],
+        [
+          257.34375,
+          73.037109375
+        ],
+        [
+          255.46875,
+          80.947265625
+        ],
+        [
+          38.90625,
+          80.947265625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          108.75,
+          122.080078125
+        ],
+        [
+          288.75,
+          121.025390625
+        ],
+        [
+          286.875,
+          127.880859375
+        ],
+        [
+          106.875,
+          128.935546875
+        ]
+      ]
+    },
+    {
+      "title": "MITIGASI PENDATAAN DENGAN TELEPON(3)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          25.78125,
+          22.75201416015625
+        ],
+        [
+          529.7118530273438,
+          22.75201416015625
+        ],
+        [
+          529.7118530273438,
+          59.42083740234375
+        ],
+        [
+          25.78125,
+          59.42083740234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          75.46875,
+          128.408203125
+        ],
+        [
+          338.90625,
+          127.353515625
+        ],
+        [
+          337.03125,
+          137.373046875
+        ],
+        [
+          73.59375,
+          138.427734375
+        ]
+      ]
+    },
+    {
+      "title": "Diagram Alur Tahapan\nPendataan",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          40.17499923706055,
+          230.79791259765625
+        ],
+        [
+          371.3833923339844,
+          230.79791259765625
+        ],
+        [
+          371.3833923339844,
+          305.8979187011719
+        ],
+        [
+          40.17499923706055,
+          305.8979187011719
+        ]
+      ]
+    },
+    {
+      "title": "Terima\nkasih",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          109.6875,
+          337.5498809814453
+        ],
+        [
+          295.4669189453125,
+          337.5498809814453
+        ],
+        [
+          295.4669189453125,
+          462.23986053466797
+        ],
+        [
+          107.8125,
+          462.23986053466797
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          269
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "TableCell",
+          69
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "TableCell",
+          46
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\08. PENDATAAN RUMAH TANGGA"
+}

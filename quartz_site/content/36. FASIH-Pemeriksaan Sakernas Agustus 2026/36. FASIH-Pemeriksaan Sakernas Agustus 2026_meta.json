@@ -1,0 +1,429 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SAKERNAS\nB A H A N A J A R",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          584.8499755859375,
+          165.114990234375
+        ],
+        [
+          905.7706298828125,
+          165.114990234375
+        ],
+        [
+          905.7706298828125,
+          252.18487548828125
+        ],
+        [
+          584.8499755859375,
+          252.18487548828125
+        ]
+      ]
+    },
+    {
+      "title": "TATA CARA PEMERIKSAAN PENDATAAN",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.3125,
+          34.013671875
+        ],
+        [
+          579.0840454101562,
+          34.013671875
+        ],
+        [
+          579.0840454101562,
+          60.648773193359375
+        ],
+        [
+          53.4375,
+          60.648773193359375
+        ]
+      ]
+    },
+    {
+      "title": "PENGGUNAAN FASIH PENDATAAN",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          196.60000610351562,
+          30.849609375
+        ],
+        [
+          763.7556762695312,
+          29.794921875
+        ],
+        [
+          763.7556762695312,
+          63.655029296875
+        ],
+        [
+          196.60000610351562,
+          63.655029296875
+        ]
+      ]
+    },
+    {
+      "title": "Melakukan Approval Assignment",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          402.1000061035156,
+          21.09375
+        ],
+        [
+          946.875,
+          21.09375
+        ],
+        [
+          945.0,
+          55.8984375
+        ],
+        [
+          402.1000061035156,
+          55.8984375
+        ]
+      ]
+    },
+    {
+      "title": "Melakukan UNAPPROVE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          500.8499755859375,
+          35.068359375
+        ],
+        [
+          905.550537109375,
+          35.068359375
+        ],
+        [
+          905.550537109375,
+          69.93002319335938
+        ],
+        [
+          500.8499755859375,
+          69.93002319335938
+        ]
+      ]
+    },
+    {
+      "title": "Terima\nkasih",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          109.6875,
+          337.5498809814453
+        ],
+        [
+          295.4669189453125,
+          337.5498809814453
+        ],
+        [
+          295.4669189453125,
+          462.23986053466797
+        ],
+        [
+          107.8125,
+          462.23986053466797
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "Text",
+          6
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          26
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\36. FASIH-Pemeriksaan Sakernas Agustus 2026"
+}
