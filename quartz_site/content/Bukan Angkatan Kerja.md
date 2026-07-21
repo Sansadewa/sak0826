@@ -1,6 +1,5 @@
 ---
 title: Bukan Angkatan Kerja
-aliases: [Bukan Angkatan Kerja]
 tags: [indikator, konsep_baku]
 ---
 

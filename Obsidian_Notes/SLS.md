@@ -1,6 +1,5 @@
 ---
 title: SLS
-aliases: [SLS]
 tags: [metodologi]
 ---
 

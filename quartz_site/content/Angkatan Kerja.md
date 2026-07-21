@@ -1,6 +1,5 @@
 ---
 title: Angkatan Kerja
-aliases: [Angkatan Kerja]
 tags: [indikator, konsep_baku]
 ---
 

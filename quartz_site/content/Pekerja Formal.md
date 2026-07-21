@@ -1,6 +1,5 @@
 ---
 title: Pekerja Formal
-aliases: [Pekerja Formal]
 tags: [indikator, formalitas]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Pengangguran
-aliases: [Pengangguran]
 tags: [indikator, icls19]
 ---
 

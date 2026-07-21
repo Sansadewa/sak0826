@@ -1,6 +1,5 @@
 ---
 title: Bekerja
-aliases: [Bekerja]
 tags: [indikator, icls13, icls19]
 ---
 

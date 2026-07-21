@@ -1,6 +1,5 @@
 ---
 title: Jam Kerja
-aliases: [Jam Kerja]
 tags: [indikator, wki]
 ---
 

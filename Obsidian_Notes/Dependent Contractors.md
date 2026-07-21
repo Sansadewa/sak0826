@@ -1,6 +1,5 @@
 ---
 title: Dependent Contractors
-aliases: [Dependent Contractors]
 tags: [icse-18]
 ---
 

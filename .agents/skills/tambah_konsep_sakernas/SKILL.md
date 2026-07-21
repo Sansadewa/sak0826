@@ -22,7 +22,6 @@ Jika USER meminta Anda untuk menambahkan konsep baru (misalnya: "Tolong tambahka
 ```markdown
 ---
 title: [Nama Konsep]
-aliases: [[Nama Konsep]]
 tags: [indikator, sakernas]
 ---
 

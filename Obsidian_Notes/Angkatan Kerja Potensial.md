@@ -1,6 +1,5 @@
 ---
 title: Angkatan Kerja Potensial
-aliases: [Angkatan Kerja Potensial]
 tags: [indikator, icls19]
 ---
 

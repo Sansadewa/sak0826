@@ -1,6 +1,5 @@
 ---
 title: Pekerja Informal
-aliases: [Pekerja Informal]
 tags: [indikator, formalitas]
 ---
 

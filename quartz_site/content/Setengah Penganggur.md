@@ -1,6 +1,5 @@
 ---
 title: Setengah Penganggur
-aliases: [Setengah Penganggur]
 tags: [indikator, icls19]
 ---
 
