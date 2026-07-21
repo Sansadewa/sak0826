@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: sansadewa.github.io/sak0826
   ignorePatterns:
     - private
     - templates
