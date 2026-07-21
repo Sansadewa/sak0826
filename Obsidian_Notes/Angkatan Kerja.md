@@ -1,0 +1,15 @@
+---
+title: Angkatan Kerja
+aliases: [Angkatan Kerja]
+tags: [indikator, konsep_baku]
+---
+
+# Definisi Asli (Kutipan Resmi)
+> Angkatan kerja terdiri dari penduduk yang [[Bekerja]] dan [[Pengangguran]].
+
+# Ringkasan (Parafrase AI)
+*Penduduk usia 15 tahun ke atas yang berstatus bekerja atau sedang aktif mencari pekerjaan (menganggur) dalam satu minggu terakhir. Kelompok ini merupakan basis penghitungan Tingkat Pengangguran Terbuka (TPT).*
+
+# Tautan ke Dokumen Modul (Klik untuk membaca teks asli)
+- **File Sumber**: [[06. Indikator Ketenagakerjaan Hasil Sakernas revisi lagi.md]]
+- **Heading Spesifik**: `Konsep Baku Ketenagakerjaan Berdasarkan ICLS ke-13`

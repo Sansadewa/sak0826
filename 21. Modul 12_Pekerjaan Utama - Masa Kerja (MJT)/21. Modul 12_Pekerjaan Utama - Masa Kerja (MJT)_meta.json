@@ -1,0 +1,573 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SAKERNAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          566.1392822265625,
+          192.63961791992188
+        ],
+        [
+          905.0792846679688,
+          192.63961791992188
+        ],
+        [
+          905.0792846679688,
+          252.63961791992188
+        ],
+        [
+          564.84375,
+          252.63961791992188
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.25,
+          50.888671875
+        ],
+        [
+          195.0,
+          49.833984375
+        ],
+        [
+          193.125,
+          74.619140625
+        ],
+        [
+          39.375,
+          75.673828125
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 12.1 MJT_SYR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          39.006900787353516,
+          41.9815673828125
+        ],
+        [
+          425.625,
+          41.9815673828125
+        ],
+        [
+          425.625,
+          86.02157592773438
+        ],
+        [
+          39.006900787353516,
+          86.02157592773438
+        ]
+      ]
+    },
+    {
+      "title": "PENJELASAN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.46875,
+          117.15664672851562
+        ],
+        [
+          153.1517333984375,
+          116.806640625
+        ],
+        [
+          153.1517333984375,
+          137.1966552734375
+        ],
+        [
+          45.46875,
+          137.1966552734375
+        ]
+      ]
+    },
+    {
+      "title": "CATATAN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          44.0625,
+          416.07421875
+        ],
+        [
+          120.1329116821289,
+          416.07421875
+        ],
+        [
+          120.1329116821289,
+          437.1698760986328
+        ],
+        [
+          44.0625,
+          437.1698760986328
+        ]
+      ]
+    },
+    {
+      "title": "Contoh:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          589.21875,
+          352.265625
+        ],
+        [
+          650.7168579101562,
+          352.265625
+        ],
+        [
+          650.7168579101562,
+          368.7126007080078
+        ],
+        [
+          587.34375,
+          368.7126007080078
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.125,
+          53.525390625
+        ],
+        [
+          198.75,
+          52.470703125
+        ],
+        [
+          196.875,
+          77.255859375
+        ],
+        [
+          41.25,
+          78.310546875
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 12.2 MJT_LAMA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.251197814941406,
+          40.90142822265625
+        ],
+        [
+          468.75,
+          40.90142822265625
+        ],
+        [
+          466.875,
+          85.116455078125
+        ],
+        [
+          40.251197814941406,
+          85.116455078125
+        ]
+      ]
+    },
+    {
+      "title": "PENJELASAN",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.34375,
+          116.23361206054688
+        ],
+        [
+          134.54786682128906,
+          116.23361206054688
+        ],
+        [
+          134.54786682128906,
+          132.193603515625
+        ],
+        [
+          47.34375,
+          132.193603515625
+        ]
+      ]
+    },
+    {
+      "title": "CATATAN",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.8125,
+          231.68582153320312
+        ],
+        [
+          109.6875,
+          230.712890625
+        ],
+        [
+          109.6875,
+          247.64581298828125
+        ],
+        [
+          47.8125,
+          247.64581298828125
+        ]
+      ]
+    },
+    {
+      "title": "CONTOH ILUSTRASI CONTOH",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          90.0,
+          372.9552001953125
+        ],
+        [
+          537.6403198242188,
+          372.9552001953125
+        ],
+        [
+          537.6403198242188,
+          390.72010803222656
+        ],
+        [
+          90.0,
+          390.72010803222656
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          480.0,
+          372.3046875
+        ],
+        [
+          540.0,
+          372.3046875
+        ],
+        [
+          540.0,
+          383.90625
+        ],
+        [
+          480.0,
+          383.90625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          98.90625,
+          54.31640625
+        ],
+        [
+          253.59375,
+          54.31640625
+        ],
+        [
+          251.71875,
+          79.62890625
+        ],
+        [
+          97.03125,
+          79.62890625
+        ]
+      ]
+    },
+    {
+      "title": "Nomor 12.3 MJT_UPAH",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          96.7449951171875,
+          43.684661865234375
+        ],
+        [
+          524.53125,
+          43.684661865234375
+        ],
+        [
+          522.6887817382812,
+          87.72467041015625
+        ],
+        [
+          96.7449951171875,
+          87.72467041015625
+        ]
+      ]
+    },
+    {
+      "title": "CONTOH",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          82.96875,
+          292.1379699707031
+        ],
+        [
+          157.74131774902344,
+          292.1379699707031
+        ],
+        [
+          157.74131774902344,
+          312.177978515625
+        ],
+        [
+          82.96875,
+          312.177978515625
+        ]
+      ]
+    },
+    {
+      "title": "Terima\nkasih",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          110.15625,
+          337.75103759765625
+        ],
+        [
+          276.12908935546875,
+          337.75103759765625
+        ],
+        [
+          276.12908935546875,
+          462.55104064941406
+        ],
+        [
+          108.28125,
+          462.55104064941406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\21. Modul 12_Pekerjaan Utama - Masa Kerja (MJT)"
+}
