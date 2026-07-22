@@ -45,3 +45,9 @@ tags: [metodologi, sakernas]
 # Tautan ke Dokumen Modul (Klik untuk membaca teks asli)
 - **File Sumber**: [[03. Bab 4. Pemutakhiran dan Penarikan Sampel Rumah Tangga_revWI20260701.md]]
 - **Heading Spesifik**: `4.1 PENDAHULUAN`, `PENGGAMBARAN TITIK DAN NOMOR URUT BANGUNAN`, `KONVERSI KELUARGA KE RUMAH TANGGA BIASA`
+
+# Penggunaan dalam Kuesioner (Praktik Lapangan)
+- **Bab 4 (Pemutakhiran dan Penarikan Sampel)**:
+  - **Konteks**: Konsep ini bukan merupakan pertanyaan yang ditanyakan kepada responden dalam kuesioner utama (AK), melainkan **langkah awal lapangan** menggunakan **Aplikasi FASIH** dan **Peta WS**.
+  - **Tugas Petugas**: Mendata ulang seluruh keluarga dalam blok sensus, mengonversinya menjadi rumah tangga, dan memplot lokasinya pada peta (berupa titik hitam berurut dari barat daya). 
+  - **Timeframe (Periode Rujukan)**: Dilakukan **sebelum pendataan kuesioner utama**, untuk menghasilkan kerangka sampel rumah tangga yang mutakhir.

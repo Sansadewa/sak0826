@@ -12,3 +12,10 @@ tags: [indikator, icls19]
 # Tautan ke Dokumen Modul (Klik untuk membaca teks asli)
 - **File Sumber**: [[06. Indikator Ketenagakerjaan Hasil Sakernas revisi lagi.md]]
 - **Heading Spesifik**: `Setengah Penganggur`
+
+# Penggunaan dalam Kuesioner (Praktik Lapangan)
+- **Modul 19 (Jam Kerja Seluruh Pekerjaan dan Situasi Pekerjaan - WKI)**:
+  - **Pertanyaan 19.3 (WKT_WNTMRH)**: Apakah [NAMA] ingin menambah jam kerja dalam seminggu dibandingkan jam kerja biasanya untuk menambah penghasilan?
+  - **Pertanyaan 19.4 (WKT_AVLMRH)**: Apakah [NAMA] siap/bersedia menambah jam kerja dalam rentang 2 minggu ke depan?
+  - **Pertanyaan 19.5 (WKT_PNWRN)**: Dalam seminggu terakhir, jika ada penawaran pekerjaan, apakah [NAMA] mau menerima?
+  - **Timeframe (Periode Rujukan)**: Merujuk pada **Seminggu terakhir** (penawaran kerja) dan **2 minggu ke depan** (kesiapan menambah jam).
