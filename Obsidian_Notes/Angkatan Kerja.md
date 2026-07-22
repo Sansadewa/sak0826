@@ -15,6 +15,6 @@ tags: [indikator, konsep_baku]
 
 # Penggunaan dalam Kuesioner (Praktik Lapangan)
 - **Status Derivatif**: Konsep ini tidak ditanyakan secara langsung dalam satu pertanyaan tunggal, melainkan hasil penggabungan (derivasi) dari:
-  - **Modul 7 (Bekerja - ATW)**: Jika responden teridentifikasi Bekerja.
-  - **Modul 20 (Mencari Pekerjaan dan Kesiapan Bekerja - SRH)**: Jika responden tidak bekerja, namun aktif mencari pekerjaan/mempersiapkan usaha dan siap bekerja (Pengangguran).
+  - **[[16. Modul 7_Bekerja (ATW)_rev ws intama.md|Modul 7 (Bekerja - ATW)]]**: Jika responden teridentifikasi Bekerja.
+  - **[[29. Modul 20_Mencari pekerjaan dan kesiapan bekerja (SRH)_revpelatihaninnas.md|Modul 20 (Mencari Pekerjaan dan Kesiapan Bekerja - SRH)]]**: Jika responden tidak bekerja, namun aktif mencari pekerjaan/mempersiapkan usaha dan siap bekerja (Pengangguran).
   - **Timeframe (Periode Rujukan)**: Merujuk pada periode seminggu terakhir hingga sebulan terakhir sesuai komponen pembentuknya.

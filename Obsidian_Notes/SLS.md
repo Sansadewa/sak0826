@@ -14,7 +14,7 @@ tags: [metodologi]
 - **Heading Spesifik**: `PEMUTAKHIRAN MUATAN SLS`
 
 # Penggunaan dalam Kuesioner (Praktik Lapangan)
-- **Bab 4 (Pemutakhiran dan Penarikan Sampel)**:
+- **[[03. Bab 4. Pemutakhiran dan Penarikan Sampel Rumah Tangga_revWI20260701.md|Bab 4 (Pemutakhiran dan Penarikan Sampel)]]**:
   - **Konteks**: Konsep ini bukan variabel yang ditanyakan ke responden rumah tangga, melainkan batasan wilayah operasional tempat petugas (PPL) bekerja.
   - **Penerapan Lapangan**: Sebelum melakukan pendataan, petugas harus menemui pengurus SLS (misalnya Ketua RT/RW/Kadus) untuk lapor diri dan mengenali batas batas fisik wilayah SLS agar tidak salah mendata (lewat batas).
   - **Timeframe (Periode Rujukan)**: Merupakan tahapan awal sebelum kegiatan pemutakhiran (listing) dari rumah ke rumah dimulai.

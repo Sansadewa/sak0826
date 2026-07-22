@@ -20,7 +20,7 @@ tags: [indikator, icls13, icls19]
 - **Heading Spesifik**: `Konsep Bekerja`, `Tidak Termasuk Bekerja`
 
 # Penggunaan dalam Kuesioner (Praktik Lapangan)
-- **Modul 7 (Bekerja - ATW)**:
+- **[[16. Modul 7_Bekerja (ATW)_rev ws intama.md|Modul 7 (Bekerja - ATW)]]**:
   - **Konteks Lapangan**: Modul 7 ini hanyalah **pintu masuk** untuk menentukan status angkatan kerja, berfokus pada aktivitas aktual 7 hari terakhir, bukan pekerjaan yang "biasanya" dilakukan.
   - **Pertanyaan 7.1 (ATW_PAY)**: Apakah [NAMA] bekerja untuk orang lain dengan mendapatkan bayaran/upah/gaji berupa uang atau barang?
   - **Pertanyaan 7.2 (ATW_PFT)**: Apakah [NAMA] menjalankan usaha, bertani, atau melakukan kegiatan lainnya untuk memperoleh keuntungan/pendapatan?

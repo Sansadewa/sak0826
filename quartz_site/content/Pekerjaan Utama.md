@@ -24,7 +24,7 @@ tags: [indikator, sakernas]
 - **Heading Spesifik**: `Penjelasan Pekerjaan/Usaha Utama (1)`, `Penjelasan Pekerjaan/Usaha Utama (2)`
 
 # Penggunaan dalam Kuesioner (Praktik Lapangan)
-- **Modul 10 (Pekerjaan Utama - MJJ)**:
+- **[[19. Modul 10_Pekerjaan Utama - Karakteristik (MJJ)_INNAS Neny Maya.md|Modul 10 (Pekerjaan Utama - MJJ)]]**:
   - **Pertanyaan 10.1 (MJJ_MULT)**: Menanyakan apakah responden memiliki satu atau lebih dari satu pekerjaan/usaha. Seseorang yang melayani banyak pelanggan dari 1 agensi (misal: pekerja outsourcing) dihitung memiliki **1 pekerjaan**.
   - **Pertanyaan 10.2, 10.3, 10.4**: Ditanyakan jabatan spesifik, komoditas utama, dan bidang industri untuk menentukan kodifikasi **KBLI (Lapangan Usaha)** dan **KBJI (Jenis Pekerjaan/Jabatan)** secara akurat.
   - **Identifikasi Pekerja Independen vs Dependen (10.5A)**: Klasifikasi status pekerjaan ICSE-18, yang membedakan apakah responden menanggung risiko ekonomi (Berusaha) atau bekerja dengan perjanjian/ikatan (Buruh/Karyawan/Pekerja Bebas).

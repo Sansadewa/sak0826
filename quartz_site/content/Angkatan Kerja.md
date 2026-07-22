@@ -12,3 +12,9 @@ tags: [indikator, konsep_baku]
 # Tautan ke Dokumen Modul (Klik untuk membaca teks asli)
 - **File Sumber**: [[06. Indikator Ketenagakerjaan Hasil Sakernas revisi lagi.md]]
 - **Heading Spesifik**: `Konsep Baku Ketenagakerjaan Berdasarkan ICLS ke-13`
+
+# Penggunaan dalam Kuesioner (Praktik Lapangan)
+- **Status Derivatif**: Konsep ini tidak ditanyakan secara langsung dalam satu pertanyaan tunggal, melainkan hasil penggabungan (derivasi) dari:
+  - **[[16. Modul 7_Bekerja (ATW)_rev ws intama.md|Modul 7 (Bekerja - ATW)]]**: Jika responden teridentifikasi Bekerja.
+  - **[[29. Modul 20_Mencari pekerjaan dan kesiapan bekerja (SRH)_revpelatihaninnas.md|Modul 20 (Mencari Pekerjaan dan Kesiapan Bekerja - SRH)]]**: Jika responden tidak bekerja, namun aktif mencari pekerjaan/mempersiapkan usaha dan siap bekerja (Pengangguran).
+  - **Timeframe (Periode Rujukan)**: Merujuk pada periode seminggu terakhir hingga sebulan terakhir sesuai komponen pembentuknya.

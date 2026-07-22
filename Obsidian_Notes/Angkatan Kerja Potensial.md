@@ -14,7 +14,7 @@ tags: [indikator, icls19]
 - **Heading Spesifik**: `Diagram Ketenagakerjaan Berdasarkan ICLS ke-19`
 
 # Penggunaan dalam Kuesioner (Praktik Lapangan)
-- **Modul 20 (Mencari Pekerjaan dan Kesiapan Bekerja - SRH)**:
+- **[[29. Modul 20_Mencari pekerjaan dan kesiapan bekerja (SRH)_revpelatihaninnas.md|Modul 20 (Mencari Pekerjaan dan Kesiapan Bekerja - SRH)]]**:
   - **Pertanyaan Inti (Pencarian)**: Apakah [NAMA] mencari pekerjaan atau mempersiapkan usaha baru? (Umumnya menjawab TIDAK untuk kategori ini, tetapi bersedia/siap jika ada tawaran).
   - **Pertanyaan Inti (Kesiapan)**: Jika ada tawaran pekerjaan atau peluang usaha, apakah [NAMA] siap untuk mulai bekerja? (Menjawab YA).
   - **Timeframe (Periode Rujukan)**: 

@@ -14,7 +14,7 @@ tags: [indikator, wki]
 - **Heading Spesifik**: `Jam Kerja`
 
 # Penggunaan dalam Kuesioner (Praktik Lapangan)
-- **Modul 19 (Jam Kerja Seluruh Pekerjaan dan Situasi Pekerjaan - WKI)**:
+- **[[28. Modul 19_Jam Kerja Seluruh Pekerjaan dan Situasi Pekerjaan (WKI).md|Modul 19 (Jam Kerja Seluruh Pekerjaan dan Situasi Pekerjaan - WKI)]]**:
   - **Pertanyaan 19.1 (WKT_S)**: Dalam seminggu terakhir, berapa jumlah jam [NAMA] bekerja pada seluruh pekerjaan/usaha SELAMA SEMINGGU (setelah dikurangi waktu istirahat)?
   - **Pertanyaan 19.2 (WKT_USS)**: Berapa jumlah jam biasanya [NAMA] bekerja selama seminggu pada seluruh pekerjaan/usaha (setelah dikurangi waktu istirahat)?
   - **Timeframe (Periode Rujukan)**: **Seminggu terakhir** (untuk jam kerja aktual) dan **Biasanya** (untuk jam kerja rata-rata/biasanya).

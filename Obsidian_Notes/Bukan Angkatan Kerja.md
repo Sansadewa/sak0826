@@ -15,7 +15,7 @@ tags: [indikator, konsep_baku]
 
 # Penggunaan dalam Kuesioner (Praktik Lapangan)
 - **Status Derivatif**: Konsep ini adalah residu/sisa dari penduduk usia kerja yang tidak masuk kategori Angkatan Kerja. Ini diukur dari:
-  - **Modul 7 (Bekerja - ATW)**: Menjawab TIDAK untuk semua pertanyaan bekerja.
-  - **Modul 20 (Mencari Pekerjaan dan Kesiapan Bekerja - SRH)**: Menjawab TIDAK sedang mencari pekerjaan/mempersiapkan usaha, ATAU menjawab YA sedang mencari namun TIDAK SIAP bekerja. 
+  - **[[16. Modul 7_Bekerja (ATW)_rev ws intama.md|Modul 7 (Bekerja - ATW)]]**: Menjawab TIDAK untuk semua pertanyaan bekerja.
+  - **[[29. Modul 20_Mencari pekerjaan dan kesiapan bekerja (SRH)_revpelatihaninnas.md|Modul 20 (Mencari Pekerjaan dan Kesiapan Bekerja - SRH)]]**: Menjawab TIDAK sedang mencari pekerjaan/mempersiapkan usaha, ATAU menjawab YA sedang mencari namun TIDAK SIAP bekerja. 
   - **Pertanyaan Alasan (Modul 20)**: Biasanya ditandai dengan alasan tidak mencari kerja seperti sekolah, mengurus rumah tangga, atau merasa tidak mungkin mendapat pekerjaan (putus asa).
   - **Timeframe (Periode Rujukan)**: Seminggu terakhir hingga sebulan terakhir sesuai alur pertanyaan sebelumnya.

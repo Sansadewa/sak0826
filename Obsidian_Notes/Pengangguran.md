@@ -14,7 +14,7 @@ tags: [indikator, icls19]
 - **Heading Spesifik**: `PERBEDAAN KONSEP KETENAGAKERJAAN ICLS KE-13 DAN ICLS KE-19`
 
 # Penggunaan dalam Kuesioner (Praktik Lapangan)
-- **Modul 20 (Mencari Pekerjaan dan Kesiapan Bekerja - SRH)**:
+- **[[29. Modul 20_Mencari pekerjaan dan kesiapan bekerja (SRH)_revpelatihaninnas.md|Modul 20 (Mencari Pekerjaan dan Kesiapan Bekerja - SRH)]]**:
   - **Pertanyaan Inti (Pencarian)**: Apakah [NAMA] mencari pekerjaan atau mempersiapkan usaha baru? 
   - **Pertanyaan Inti (Kesiapan)**: Jika ada tawaran pekerjaan atau peluang usaha, apakah [NAMA] siap untuk mulai bekerja?
   - **Timeframe (Periode Rujukan)**: 

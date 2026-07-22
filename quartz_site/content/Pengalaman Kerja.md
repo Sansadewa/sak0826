@@ -30,7 +30,7 @@ tags: [indikator, sakernas]
 - **Heading Spesifik**: `CATATAN`, `PENJELASAN TERKAIT PENGALAMAN PEKERJAAN/USAHA SEBELUMNYA/ BERHENTI BEKERJA`
 
 # Penggunaan dalam Kuesioner (Praktik Lapangan)
-- **Modul 21 (Pengalaman Kerja - MPK)**:
+- **[[30. Modul 21_Pengalaman kerja (MPK).md|Modul 21 (Pengalaman Kerja - MPK)]]**:
   - **Timeframe Waktu Tunggu (MPK_WKT)**: Pekerjaan pertama yang didapat *sejak lulus* pendidikan tertinggi (bertujuan mengukur masa tunggu kerja).
   - **Pertanyaan Pengalaman Kerja (MPK_PRNH_A/B)**: Apakah pernah memiliki pekerjaan/usaha sebelumnya? (Tidak ada batasan timeframe, mencakup seluruh hidup responden).
   - **Timeframe Berhenti Kerja (MPK_HENTI)**: Hanya mendata pekerjaan yang berhentinya terjadi **dalam setahun terakhir**.
