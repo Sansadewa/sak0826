@@ -6,3 +6,4 @@ tags: [MOC, index, sakernas]
 Berikut adalah daftar seluruh konsep utama yang berhubungan erat dalam tema ini, disusun secara logis untuk memudahkan navigasi pengetahuan.
 
 - [[SLS]]
+- [[Pemutakhiran]]
