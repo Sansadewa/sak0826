@@ -14,3 +14,5 @@ Berikut adalah daftar seluruh konsep utama yang berhubungan erat dalam tema ini,
 - [[Angkatan Kerja Potensial]]
 - [[Pekerja Informal]]
 - [[Pekerja Formal]]
+- [[Pekerjaan Utama]]
+- [[Pengalaman Kerja]]
